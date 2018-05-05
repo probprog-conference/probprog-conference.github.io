@@ -4,6 +4,7 @@ layout: default
 ---
 
 # PROBPROG 2018
+*The International Conference on Probabilistic Programming*
 
 - [Speakers](/#keynote-speakers) 
 - [Program](/#program-overview)
