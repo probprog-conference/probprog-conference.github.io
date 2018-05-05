@@ -1,2 +1,3 @@
-# probprog-conference.github.io
-Website for the PROBPROG conference
+# PROBPROG 2018
+
+The International Conference on Probabilistic Programming
