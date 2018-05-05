@@ -1,0 +1,11 @@
+name: "PROBPROG 2018"
+url: http://probprog-conference.github.io
+#baseurl: http://probprog-conference.github.io
+permalink: /:year/:month/:day/:title
+timezone: America/New_York
+
+# navigation:
+# - text: Home
+#   url: /
+# - text: Call for Submissions
+#   url: /submissions/
