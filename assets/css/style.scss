@@ -3,12 +3,27 @@
 
 @import "{{ site.theme }}";
 
+.markdown-body h1 {
+    border-bottom: none;
+    padding: 0;
+    /*padding-left: 12px;*/
+    margin: 0;
+}
+
+.markdown-body h1 + p {
+    margin: 0;
+    padding: 0;
+}
+
 .markdown-body h1 + p + ul {
     list-style-type: none;
-    margin: 0;
-    padding-left: 0;
-    padding-bottom: 0.3em;
-    border-bottom: 1px solid #eaecef;
+    margin: 0;    
+    padding: 12px 0;
+    /*padding-left: 12px;*/
+    /*border-top: 1px solid #eaecef;*/
+    /*border-bottom: 1px solid #eaecef;*/
+    /*background: #eaecef ;*/
+    /*background: #edeae3;*/
 }
 
 .markdown-body h1 + p + ul > li {
@@ -20,4 +35,26 @@
 
 .markdown-body  h1 + p + ul > li > a {
     text-transform: uppercase;
+    font-weight: bold;
+}
+
+.markdown-body h1 + p + ul + p {
+    margin: 0; 
+    padding: 0; 
+}
+
+
+.markdown-body h1 + p + ul + p > img {
+    /*border-top: 1px solid #eaecef;*/
+    border-bottom: 1px solid #eaecef;
+    margin: 0;
+    padding: 0;
+}
+
+
+.markdown-body h2 {
+    /*border-top: 1px solid #eaecef;*/
+    border-bottom: 1px solid #eaecef;
+    margin: 8px 0;
+    padding: 8px 0;
 }

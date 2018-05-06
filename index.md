@@ -11,6 +11,9 @@ layout: default
 - [Organizers](/#organizing-committee)
 - [Submissions](/#call-for-submissions)
 
+![probprog-banner](assets/images/boston-sailboats.jpg "probprog-banner")
+
+
 ## Dates and Location
 
 - **Conference Dates**: Thu 4 - Sat 6 Oct 2018
