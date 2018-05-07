@@ -11,7 +11,7 @@ layout: default
 - [Organizers](/#organizing-committee)
 - [Submissions](/#call-for-submissions)
 
-![probprog-banner](assets/images/boston-sailboats.jpg "probprog-banner")
+![probprog-banner](assets/images/boston-sailboats.jpg "Photo credit: Salima Bahri")
 
 
 ## Dates and Location
@@ -70,7 +70,7 @@ This track is centered on four themes: (i) probabilistic programs and systems ba
 ## Call for Submissions
 
 - **Deadline**: Fri July 13, 2018 11:59 PM UTC.
-- **Submit at**: [https://cmt3.research.microsoft.com/PROBPROG2018](https://cmt.research.microsoft.com/PROBPROG2018/)
+- **Submit at**: [https://cmt3.research.microsoft.com/PROBPROG2018](https://cmt3.research.microsoft.com/PROBPROG2018/)
 
 This first year, we are focused on (i) creating a venue that can support the growth of probabilistic programming, in academia, industry, government, and the non-profit sector, and (ii) gathering a community that can provide rigorous peer review for research papers in future years.
 
