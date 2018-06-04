@@ -80,15 +80,15 @@ Accordingly, we are soliciting the following kinds of submissions:
 
 - Highlights of already-published probabilistic programming research, that could be of interest to the PROBPROG community, or would benefit from PROBPROG feedback.
 
-- Demonstrations of probabilistic programming systems.
+- Work that discusses the design and implementation of probabilistic programming systems, or the application of probabilistic programs. 
 
 Submissions should be 2-page abstracts, and should not be anonymized. Submissions will be lightly reviewed for technical correctness and topicality. Accepted submissions may be included in poster sessions, demos, or talk sessions.
 
 Community feedback at PROGPROG 2018 will inform the PROBPROG Steering Committee's decisions around when to create a peer-reviewed probabilistic programming journal and/or conference proceedings.
 
-# Diversity
+## Diversity
 
-We are actively working to ensure that the PROBPROG conference is inclusive in the broadest sense. In particular, we encourage contributions from participants whose gender, sexual orientation, and/or ethnic identities are underrepresented in the field. 
+We are actively working to ensure that the PROBPROG conference is inclusive in the broadest sense. In particular, we encourage contributions from participants whose gender, sexual orientation, and/or ethnic identities are underrepresented in the field.
 
 We are at present in the process of drawing up a code of conduct. We welcome feedback from the community on policies and measures that help establish a venue that is welcoming to all participants. Please direct such suggestions and comments to [probprog-chairs@googlegroups.com](probprog-chairs@googlegroups.com).
 
