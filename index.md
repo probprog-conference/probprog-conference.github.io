@@ -86,6 +86,12 @@ Submissions should be 2-page abstracts, and should not be anonymized. Submission
 
 Community feedback at PROGPROG 2018 will inform the PROBPROG Steering Committee's decisions around when to create a peer-reviewed probabilistic programming journal and/or conference proceedings.
 
+# Diversity
+
+We are actively working to ensure that the PROBPROG conference is inclusive in the broadest sense. In particular, we encourage contributions from participants whose gender, sexual orientation, and/or ethnic identities are underrepresented in the field. 
+
+We are at present in the process of drawing up a code of conduct. We welcome feedback from the community on policies and measures that help establish a venue that is welcoming to all participants. Please direct such suggestions and comments to [probprog-chairs@googlegroups.com](probprog-chairs@googlegroups.com).
+
 ## Sponsorship
 
 For more information on the industry day and on sponsorship opportunities, please contact the organizers at [probprog-chairs@googlegroups.com](probprog-chairs@googlegroups.com) with "PROBPROG Industry" in the subject line.
