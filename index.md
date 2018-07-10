@@ -18,7 +18,7 @@ layout: default
 
 - **Conference Dates**: Thu 4 - Sat 6 Oct 2018
 - **Conference Location**: Boston, MA, USA
-- **Submission Deadline**: Fri July 13, 2018 11:59 PM UTC
+- **Submission Deadline**: <span style="color:red">Wed Aug 1, 2018 11:59 PM AOE</span> (*Note extended deadline*)
 
 The inaugural *International Conference on Probabilistic Programming (PROBPROG)* will be held in Boston, MA on Thursday October 4th, Friday Oct 5th, and Saturday October 6th.
 
@@ -69,7 +69,7 @@ This track is centered on four themes: (i) probabilistic programs and systems ba
 
 ## Call for Submissions
 
-- **Deadline**: Fri July 13, 2018 11:59 PM UTC.
+- **Deadline**: <span style="color:red">Wed Aug 1, 2018 11:59 PM AOE</span> (*Note extended deadline*)
 - **Submit at**: [https://cmt3.research.microsoft.com/PROBPROG2018](https://cmt3.research.microsoft.com/PROBPROG2018/)
 
 This first year, we are focused on (i) creating a venue that can support the growth of probabilistic programming, in academia, industry, government, and the non-profit sector, and (ii) gathering a community that can provide rigorous peer review for research papers in future years.
@@ -82,7 +82,7 @@ Accordingly, we are soliciting the following kinds of submissions:
 
 - Work that discusses the design and implementation of probabilistic programming systems, or the application of probabilistic programs. 
 
-Submissions should be 2-page abstracts, and should not be anonymized. Submissions will be lightly reviewed for technical correctness and topicality. Accepted submissions may be included in poster sessions, demos, or talk sessions.
+Submissions should be 2-page abstracts, and should not be anonymized. Abstracts should use the [ACM SIGPLAN format](http://www.sigplan.org/Resources/Author/). Submissions will be lightly reviewed for technical correctness and topicality. Accepted submissions may be included in poster sessions, demos, or talk sessions.
 
 Community feedback at PROGPROG 2018 will inform the PROBPROG Steering Committee's decisions around when to create a peer-reviewed probabilistic programming journal and/or conference proceedings.
 
