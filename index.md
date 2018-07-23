@@ -82,7 +82,7 @@ Accordingly, we are soliciting the following kinds of submissions:
 
 - Work that discusses the design and implementation of probabilistic programming systems, or the application of probabilistic programs. 
 
-Submissions should be 2-page abstracts, and should not be anonymized. Abstracts should use the [ACM SIGPLAN format](http://www.sigplan.org/Resources/Author/). Submissions will be lightly reviewed for technical correctness and topicality. Accepted submissions may be included in poster sessions, demos, or talk sessions.
+Submissions should be 2-page abstracts (exclusive of references), and should not be anonymized. Abstracts should use the [ACM SIGPLAN format](http://www.sigplan.org/Resources/Author/). Submissions will be lightly reviewed for technical correctness and topicality. Accepted submissions may be included in poster sessions, demos, or talk sessions.
 
 Community feedback at PROGPROG 2018 will inform the PROBPROG Steering Committee's decisions around when to create a peer-reviewed probabilistic programming journal and/or conference proceedings.
 
