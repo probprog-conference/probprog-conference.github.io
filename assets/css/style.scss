@@ -58,3 +58,11 @@
     margin: 8px 0;
     padding: 8px 0;
 }
+
+.markdown-body td > p {
+    margin-bottom: 0;
+}
+
+.markdown-body th > p {
+    margin-bottom: 0;
+}
