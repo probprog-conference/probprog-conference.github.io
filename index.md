@@ -3,16 +3,7 @@ title: PROBPROG 2018
 layout: default
 ---
 
-# PROBPROG 2018
-*The International Conference on Probabilistic Programming*
-
-- [Speakers](/#keynote-speakers) 
-- [Program](/#program-overview)
-- [Organizers](/#organizing-committee)
-- [Submissions](/#call-for-submissions)
-
-![probprog-banner](assets/images/boston-sailboats.jpg "Photo credit: Salima Bahri")
-
+{% include header.md %}
 
 ## Dates and Location
 
