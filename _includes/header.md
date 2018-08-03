@@ -4,6 +4,7 @@
 - [Program](/)
 - [Schedule](/schedule)
 - [Registration](/registration)
+- [Conduct](/conduct)
 
 ![probprog-banner](/assets/images/boston-sailboats.jpg "Photo credit: Salima Bahri")
 
