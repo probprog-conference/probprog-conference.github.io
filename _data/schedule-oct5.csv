@@ -1,1 +1,22 @@
-Start Time,End Time,Activity,Location*8:00*,,*Registration*,*Lower Atrium***8:40**,**11:40**,**Session: Practice of Probabilistic Programming**,**Bartos Theater**8:40,9:20,Keynote: Zoubin Ghahramani,9:20,9:40,Talk: Stan Development Team,9:40,10:00,Talk: Dustin Tran,10:00,10:20,Talk: Michael Tingley,*10:20*,*10:40*,*Coffee Break*,10:40,11:00,Talk: Daniel Ritchie,11:00,11:20,Talk: Ulrich Schaechtle,11:20,11:40,Talk: Brooks Paige,11:40,12:00,Invited or contributed Talk,*12:00*,*15:00*,*Lunch and Poster Session*,**15:00**,**17:40**,**Session: Statistics and Data Analysis**,**Bartos Theater**15:00,15:40,Keynote: Dave Blei,15:40,16:00,Talk: Lawrence Murray,16:00,16:20,Talk: Dan Roy,*16:20*,*16:40*,*Coffee Break*,16:40,17:00,Talk: Maria Gorinova,17:00,17:20,Talk: Hong Ge & Kai Xu,17:20,17:40,Talk: Feras Saad,,,,,,,
+Start Time,End Time,Activity,Location
+***8:00***,,***Registration***,***Lower Atrium***
+**8:40**,**12:00**,**Session: Practice of Probabilistic Programming**,**Bartos Theater**
+8:40,9:20,"Keynote: Zoubin Ghahramani (*Uber AI Labs, University of Cambridge*)",
+9:20,9:40,Talk: Stan Development Team,
+9:40,10:00,Talk: Dustin Tran (*Google*),
+10:00,10:20,Talk: Michael Tingley (*Facebook*),
+***10:20***,***10:40***,***Coffee Break***,
+10:40,11:00,Talk: Daniel Ritchie (*Brown*),
+11:00,11:20,Talk: Ulrich Schaechtle (*MIT*),
+11:20,11:40,"Talk: Brooks Paige (*Alan Turing Institute, University of Cambridge*)",
+11:40,12:00,Invited or contributed Talk,
+***12:00***,***15:00***,***Lunch and Poster Session***,
+**15:00**,**18:00**,**Session: Statistics and Data Analysis**,**Bartos Theater**
+15:00,15:40,Keynote: Dave Blei (*Columbia University*),
+15:40,16:00,Talk: Lawrence Murray (*Uppsala University*),
+16:00,16:20,Talk: Dan Roy (*University of Toronto*),
+***16:20***,***16:40***,***Coffee Break***,
+16:40,17:00,Talk: Tom Rainforth (*University of Oxford*),
+17:00,17:20,Talk: Maria Gorinova (*University of Edinburgh*),
+17:20,17:40,Talk: Hong Ge & Kai Xu (*University of Cambridge*),
+17:40,18:00,Talk: Feras Saad (*MIT*),
