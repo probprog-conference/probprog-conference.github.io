@@ -14,7 +14,7 @@ To register for the PROBPROG conference, please visit:
 The PROBPROG conference offers three categories of registration:
 
 | General Admission         | $450             |
-| Non-Student Presenter     | $360             |
+| Non-Student Contributor   | $360             |
 | Student                   | $275             |
 
 Non-student presenter registration is available to all participants who are attending to give an invited talk, contributed talk, or present a poster. General admission is available to all other non-student participants.
