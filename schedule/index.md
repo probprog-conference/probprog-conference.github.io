@@ -8,33 +8,13 @@ layout: default
 
 ## Program Overview
 
-- **Thursday October 4th**: Industry day, Tutorials, and Open-Source Meetup.    
+- **Thursday October 4th**: Industry discussions, Tutorials, Open-source meetup.    
 - **Friday October 5th**: Statistics track, Practice track.
 - **Saturday October 6th**: Intelligence track, Languages and Systems track.
 
+## Friday October 5th
 
-## Thu October 4th
-
-{% assign data=site.data.schedule-oct4 %}
-
-<table>
-    <thead>
-    {% for column in data[0] %}
-        <th>{{ column[0] | markdownify }}</th>
-    {% endfor %}
-    </thead>
-    <tbody>
-    {% for row in data %}
-        <tr>
-        {% for cell in row %}
-            <td>{{ cell[1] | markdownify }}</td>
-        {% endfor %}
-        </tr>
-    {% endfor %}
-    </tbody>
-</table>
-
-## Fri October 5th
+The *Practice of Probabilistic Programming* and *Statistics and Data Analysis* tracks take place on Friday.
 
 {% assign data=site.data.schedule-oct5 %}
 
@@ -55,7 +35,9 @@ layout: default
     </tbody>
 </table>
 
-## Sat October 6th
+## Saturday October 6th
+
+The Saturday program features the statistics track and the practice track. 
 
 {% assign data=site.data.schedule-oct6 %}
 
