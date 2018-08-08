@@ -14,8 +14,8 @@ layout: default
 
 ## Friday October 5th
 
-The sessions *Practice of Probabilistic Programming* and *Statistics and Data Analysis*  take place    
-on Friday October 5th in the [Wiesner Building E15](https://whereis.mit.edu/?go=E15) at MIT. 
+The ***Practice of Probabilistic Programming*** and ***Statistics and Data Analysis***
+session will take place on Friday in the [Wiesner Building E15](https://whereis.mit.edu/?go=E15) at MIT. 
 
 {% assign data=site.data.schedule-oct5 %}
 
@@ -38,7 +38,7 @@ on Friday October 5th in the [Wiesner Building E15](https://whereis.mit.edu/?go=
 
 ## Saturday October 6th
 
-The sessions *Probabilistic Programming and Intelligence* and *Languages and Systems* will take on on Saturday October 6th in the [Wiesner Building E15](https://whereis.mit.edu/?go=E15) at MIT.  
+The ***Probabilistic Programming and Intelligence*** and ***Languages and Systems*** sessions will take place on Saturday in the [Wiesner Building E15](https://whereis.mit.edu/?go=E15) at MIT.  
 
 {% assign data=site.data.schedule-oct6 %}
 
