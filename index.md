@@ -8,7 +8,7 @@ layout: default
 ## Dates and Location
 
 - **Conference Dates**: Thu 4 - Sat 6 Oct 2018
-- **Conference Location**: Boston, MA, USA
+- **Conference Location**: [Wiesner Building E15](https://whereis.mit.edu/?go=E15) MIT, Cambridge, MA, USA
 - **Submission Deadline**: <span style="color:red">Wed Aug 1, 2018 11:59 PM AOE</span> (*Note extended deadline*)
 
 The inaugural *International Conference on Probabilistic Programming (PROBPROG)* will be held in Boston, MA on Thursday October 4th, Friday Oct 5th, and Saturday October 6th.
