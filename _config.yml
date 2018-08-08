@@ -4,8 +4,12 @@ url: http://probprog-conference.github.io
 permalink: /:year/:month/:day/:title
 timezone: America/New_York
 
-# navigation:
-# - text: Home
-#   url: /
-# - text: Call for Submissions
-#   url: /submissions/
+navigation:
+- text: Overview
+  url: /
+- text: Schedule
+  url: /schedule/
+- text: Registration
+  url: /registration/
+- text: Conduct
+  url: /conduct/

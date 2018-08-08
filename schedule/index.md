@@ -14,7 +14,7 @@ layout: default
 
 ## Friday October 5th
 
-The *Practice of Probabilistic Programming* and *Statistics and Data Analysis* tracks take place on Friday.
+The *Practice of Probabilistic Programming* and *Statistics and Data Analysis* tracks take place on Friday in the [Wiesner Building E15](https://whereis.mit.edu/?go=E15) at MIT. 
 
 {% assign data=site.data.schedule-oct5 %}
 
@@ -37,7 +37,7 @@ The *Practice of Probabilistic Programming* and *Statistics and Data Analysis* t
 
 ## Saturday October 6th
 
-The Saturday program features the statistics track and the practice track. 
+The Saturday program features the statistics track and the practice track in the [Wiesner Building E15](https://whereis.mit.edu/?go=E15) at MIT.  
 
 {% assign data=site.data.schedule-oct6 %}
 
