@@ -1,4 +1,4 @@
-Start Time,End Time,Activity ,Location
+﻿Start Time,End Time,Activity ,Location
 ***8:00***,,***Registration***,***Lower Atrium***
 **8:40**,**12:00**,**Session: Intelligence**,**Bartos Theater**
 8:40,9:20,Keynote: Stuart Russell (*UC Berkeley*),
@@ -15,7 +15,7 @@ Start Time,End Time,Activity ,Location
 14:40,15:20,Keynote: Jean-Baptiste Tristan (*Oracle Labs*),
 15:20,15:40,Talk: Angelika Kimmig (*University of Cardiff*),
 15:40,16:00,Talk: Hongseok Yang (*KAIST*),
-16:00,16:20,Invited or Contributed Talk,
+16:00,16:20,Talk: Chung-Chieh (Ken) Shan (*Indiana University*),
 ***16:20***,***16:40***,***Coffee Break***,
 16:40,17:00,Talk: Adam Scibior (*University of Cambridge*),
 17:00,17:20,Talk: Sarah Chasins (*UC Berkeley*),
