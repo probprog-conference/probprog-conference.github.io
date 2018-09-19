@@ -1,6 +1,12 @@
 ﻿Start Time,End Time,Activity,Location
-8:00am,9:00am,Registration,McGovern Seminar Room
-9:00am,9:30am,Opening Remarks,
-9:30am,11:00am,Morning Sessions,
-11:00am,12:00pm,Lunch Break,
-12:00pm,1:30pm,Afternoon Session,McGovern Seminar Room
+***10:00***,,***Registration***,***McGovern Seminar Room***
+10:30,10:40,Welcome ,McGovern Seminar Room
+10:40,12:00,Speed Networking,McGovern Seminar Room
+***12:00***,***13:00***,***Lunch Break***,
+13:00,14:30,Tutorial by Vikash Mansinghka,McGovern Seminar Room
+***14:30***,***15:00***,***Coffee Break and Networking***,
+15:00,16:30,"**Industry Discussions**   
+Probabilistic programming for analytics consulting   
+Probabilistic programming for machine perception   
+(*[Email](mailto:probprog-chairs@googlegroups.com) us to propose additional topics*)",Room TBD
+15:00,16:30,Open Source Meetup ,Room TBD
