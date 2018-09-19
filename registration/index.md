@@ -7,6 +7,11 @@ layout: default
 
 ## Registration
 
+<div style="background:#fcfcfc;color:red;padding:2em;margin:1em 0.5em;border:1px solid #ccc;border-radius:0.5em">
+    The PROBPROG conference has sold out. We have a small number of additional registrations reserved for participants who are presenting a poster or talk. For a reservation code, please contact 
+    <a href="mailto:probprog-chairs@googlegroups.com">probprog-chairs@googlegroups.com</a>
+</div>
+
 To register for the PROBPROG conference, please visit:
 
 [https://www.regonline.com/probprog2018](https://www.regonline.com/probprog2018)
