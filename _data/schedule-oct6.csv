@@ -1,21 +1,21 @@
-﻿Start Time,End Time,Activity ,Location
+Start Time,End Time,Activity ,Location
 ***8:00***,,***Registration***,***Lower Atrium***
 **8:40**,**12:00**,**Session: Intelligence**,**Bartos Theater**
 8:40,9:20,Keynote: Stuart Russell (*UC Berkeley*),
 9:20,9:40,Talk: Josh Tenenbaum (*MIT*),
 9:40,10:00,Talk: Kristian Kersting (*TU Darmstadt*),
-10:00,10:20,*Community Announcements*,
+10:00,10:20,Talk: Frank Wood (*University of British Columbia*),
 ***10:20***,***10:40***,***Coffee Break***,
-10:40,11:00,Talk: Frank Wood (*University of British Columbia*),
-11:00,11:20,"Talk: Noah Goodman (*Uber AI Labs, Stanford*)",
-11:20,11:40,Talk: Marco Cusumano-Towner (*MIT*),
-11:40,12:00,Talk: Kevin Ellis (*MIT*),
+10:40,11:00,"Talk: Noah Goodman (*Uber AI Labs, Stanford*)",
+11:00,11:20,Talk: Marco Cusumano-Towner (*MIT*),
+11:20,11:40,Talk: Kevin Ellis (*MIT*),
+11:40,12:00,Talk: Tim O'Donnell (*McGill*),
 ***12:00***,***14:40***,***Lunch and Poster Session***,
 **14:40**,**17:40**,**Session: Languages and Systems**,**Bartos Theater**
 14:40,15:20,Keynote: Jean-Baptiste Tristan (*Oracle Labs*),
 15:20,15:40,Talk: Angelika Kimmig (*University of Cardiff*),
 15:40,16:00,Talk: Hongseok Yang (*KAIST*),
-16:00,16:20,Invited or Contributed Talk,
+16:00,16:20,Talk: Chung-Chieh (Ken) Shan (*Indiana University*),
 ***16:20***,***16:40***,***Coffee Break***,
 16:40,17:00,Talk: Adam Scibior (*University of Cambridge*),
 17:00,17:20,Talk: Sarah Chasins (*UC Berkeley*),
