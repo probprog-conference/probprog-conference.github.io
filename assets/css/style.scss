@@ -59,6 +59,7 @@
     padding: 8px 0;
 }
 
+
 .markdown-body td > p {
     margin-bottom: 0;
 }
@@ -70,4 +71,9 @@
 .markdown-body table.schedule {
     display: table;
     width: 100%;
+}
+
+.markdown-body table.schedule td, .markdown-body table.schedule th {
+    vertical-align: top;
+    text-align: left;
 }

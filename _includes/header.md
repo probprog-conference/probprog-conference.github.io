@@ -3,6 +3,7 @@
 
 - [Program](/)
 - [Schedule](/schedule)
+- [Posters](/posters)
 - [Registration](/registration) <span style="color:red">(SOLD OUT)</span>
 - [Conduct](/conduct)
 
