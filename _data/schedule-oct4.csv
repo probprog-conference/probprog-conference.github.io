@@ -1,4 +1,4 @@
-﻿Start Time,End Time,Activity,Location
+Start Time,End Time,Activity,Location
 ***10:00***,,***Registration***,***McGovern Seminar Room***
 10:30,10:40,Welcome ,McGovern Seminar Room
 10:40,12:00,Speed Networking,McGovern Seminar Room
@@ -6,7 +6,20 @@
 13:00,14:30,Tutorial by Vikash Mansinghka,McGovern Seminar Room
 ***14:30***,***15:00***,***Coffee Break and Networking***,
 15:00,16:30,"**Industry Discussions**   
-Probabilistic programming for analytics consulting   
-Probabilistic programming for machine perception   
-(*[Email](mailto:probprog-chairs@googlegroups.com) us to propose additional topics*)",Room TBD
-15:00,16:30,Open Source Meetup ,Room TBD
+ Probabilistic programming for analytics consulting   
+ Probabilistic programming for machine perception   
+ (*[Email](mailto:probprog-chairs@googlegroups.com) us to propose additional topics*)",Room TBD
+15:00,16:30,"**Open-Source Meetup**   
+[Anglican](http://anglican.ml/): David Tolpin, Jan-Willem van de Meent, Frank Wood   
+[Birch](birch-lang.org): Lawrence Murray   
+[BLOG](http://bayesianlogic.github.io/): Yi Wu   
+[ForneyLab.jl](forneylab.org): Bert de Vries, Marco Cox, Thijs van de Laar   
+[MonadBayes](https://github.com/adscib/monad-bayes): Adam Ścibior   
+[Omega](https://github.com/zenna/Omega.jl): Javier Burroni   
+[Probabilistic Torch](https://github.com/probtorch/probtorch): Alican Bozkurt, Jan-Willem van de Meent   
+[PSL](https://psl.linqs.org): Eriq Augustine   
+[PyMC3](https://docs.pymc.io/ ): Colin Carroll   
+[Pyro](http://pyro.ai): Eli Bingham, Fritz Obermeyer   
+[Stan](http://mc-stan.org): Matthijs Vakar, Sean Talts   
+[TensorFlow Probability](https://www.tensorflow.org/probability/): Alexey Radul, Dave Moore, Dustin Tran   
+[Turing.jl](turing.ml): Hong Ge   ",Room TBD
