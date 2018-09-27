@@ -2,14 +2,14 @@ Start Time,End Time,Activity,Location
 ***8:00***,,***Registration***,***Lower Atrium***
 **8:40**,**12:00**,**Session: Practice of Probabilistic Programming**,**Bartos Theater**
 8:40,9:20,"Keynote: Zoubin Ghahramani (*Uber AI Labs, University of Cambridge*)",
-9:20,9:40,Talk: Stan Development Team,
-9:40,10:00,Talk: Dustin Tran (*Google*),
+9:20,9:40,"Talk: Daniel Lee (*Stan Development Team*, *Generable*)",
+9:40,10:00,Talk: Yordan Zaykov (*Microsoft Research*),
 10:00,10:20,Talk: Michael Tingley (*Facebook*),
 ***10:20***,***10:40***,***Coffee Break***,
 10:40,11:00,Talk: Daniel Ritchie (*Brown*),
-11:00,11:20,Talk: Ulrich Schaechtle (*MIT*),
+11:00,11:20,Talk: Dustin Tran (*Google*),
 11:20,11:40,"Talk: Brooks Paige (*Alan Turing Institute, University of Cambridge*)",
-11:40,12:00,Invited or contributed Talk,
+11:40,12:00,Talk: Ulrich Schaechtle (*MIT*),
 ***12:00***,***15:00***,***[Lunch and Poster Session](/posters/#friday-october-5th-1200-1500)***,
 **15:00**,**18:00**,**Session: Statistics and Data Analysis**,**Bartos Theater**
 15:00,15:40,Keynote: Dave Blei (*Columbia University*),
