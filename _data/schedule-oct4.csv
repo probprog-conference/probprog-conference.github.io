@@ -11,10 +11,13 @@ Start Time,End Time,Activity,Location
  (*[Email](mailto:probprog-chairs@googlegroups.com) us to propose additional topics*)",Room TBD
 15:00,16:30,"**Open-Source Meetup**   
 [Anglican](http://anglican.ml/): David Tolpin, Jan-Willem van de Meent, Frank Wood   
+[BayesDB](http://probcomp.csail.mit.edu/bayesdb/): Ulrich Schaechtle   
 [Birch](birch-lang.org): Lawrence Murray   
 [BLOG](http://bayesianlogic.github.io/): Yi Wu   
 [ForneyLab.jl](forneylab.org): Bert de Vries, Marco Cox, Thijs van de Laar   
+[Gen](https://github.com/probcomp/Gen): Marco Cusumano-Towner   
 [Infer.NET](http://infernet.azurewebsites.net/): Yordan Zaykov   
+[MetaProb](): Zane Shelby, Tim Trautman, Jonathan Rees, Alex Lew   
 [MonadBayes](https://github.com/adscib/monad-bayes): Adam Ścibior   
 [Omega](https://github.com/zenna/Omega.jl): Javier Burroni   
 [Probabilistic Torch](https://github.com/probtorch/probtorch): Alican Bozkurt, Jan-Willem van de Meent   
@@ -23,4 +26,4 @@ Start Time,End Time,Activity,Location
 [Pyro](http://pyro.ai): Eli Bingham, Fritz Obermeyer   
 [Stan](http://mc-stan.org): Matthijs Vakar, Sean Talts   
 [TensorFlow Probability](https://www.tensorflow.org/probability/): Alexey Radul, Dave Moore, Dustin Tran   
-[Turing.jl](turing.ml): Hong Ge",Room TBD
+[Turing.jl](turing.ml): Hong Ge   ",Room TBD
