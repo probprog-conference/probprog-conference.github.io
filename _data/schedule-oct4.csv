@@ -1,14 +1,14 @@
 Start Time,End Time,Activity,Location
-***10:00***,,***Registration***,[MIT Brain and Cognitive Science 3310](https://whereis.mit.edu/?go=46)
-10:30,10:40,Welcome ,[MIT Brain and Cognitive Science 3310](https://whereis.mit.edu/?go=46)
-10:40,12:00,Speed Networking,[MIT Brain and Cognitive Science 3310](https://whereis.mit.edu/?go=46)
+***10:00***,,***Registration***,[BCS 3310](https://whereis.mit.edu/?go=46)
+10:30,10:40,Welcome ,[BCS 3310](https://whereis.mit.edu/?go=46)
+10:40,12:00,Speed Networking,[BCS 3310](https://whereis.mit.edu/?go=46)
 ***12:00***,***13:00***,***Lunch Break***,
-13:00,14:30,Tutorial by Vikash Mansinghka,[MIT Brain and Cognitive Science 3189](https://whereis.mit.edu/?go=46)
-***14:30***,***15:00***,***Coffee Break and Networking***,[MIT Brain and Cognitive Science 3310](https://whereis.mit.edu/?go=46)
+13:00,14:30,Tutorial by Vikash Mansinghka,[BCS 3189](https://whereis.mit.edu/?go=46)
+***14:30***,***15:00***,***Coffee Break and Networking***,[BCS 3310](https://whereis.mit.edu/?go=46)
 15:00,16:30,"**Industry Discussions**   
  Probabilistic Programming for Analytics Consulting   
  Probabilistic Programming and Deep Learning
- (*[Email](mailto:probprog-chairs@googlegroups.com) us to propose additional topics*)",[MIT Brain and Cognitive Science 3189](https://whereis.mit.edu/?go=46)
+ (*[Email](mailto:probprog-chairs@googlegroups.com) us to propose additional topics*)",[BCS 3189](https://whereis.mit.edu/?go=46)
 15:00,16:30,"**Developer Meetup**   
 [Anglican](http://anglican.ml/): David Tolpin, Jan-Willem van de Meent, Frank Wood   
 [BayesDB](http://probcomp.csail.mit.edu/bayesdb/): Ulrich Schaechtle, Feras Saad
@@ -27,4 +27,4 @@ Start Time,End Time,Activity,Location
 [Rainier](https://github.com/stripe/rainier): Avi Bryant   
 [Stan](http://mc-stan.org): Matthijs Vakar, Sean Talts   
 [TensorFlow Probability](https://www.tensorflow.org/probability/): Alexey Radul, Dave Moore
-[Turing.jl](turing.ml): Hong Ge   ",[MIT Brain and Cognitive Science 3310](https://whereis.mit.edu/?go=46)
+[Turing.jl](turing.ml): Hong Ge   ",[BCS 3310](https://whereis.mit.edu/?go=46)
