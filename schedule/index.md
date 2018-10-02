@@ -20,9 +20,11 @@ The ***Industry Day*** will take place in the [McGovern Institute for Brain and 
 
 <table class="schedule">
     <thead>
-    {% for column in data[0] %}
-        <th>{{ column[0] | markdownify }}</th>
-    {% endfor %}
+        <th>Start</th>
+        <th>End</th>
+        <th>Activity</th>
+        <th>Location</th>
+        <!-- <th>Authors</th> -->
     </thead>
     <tbody>
     {% for row in data %}
@@ -45,17 +47,29 @@ session will take place in [MIT Wiesner Building E15](https://whereis.mit.edu/?g
 
 <table class="schedule">
     <thead>
-    {% for column in data[0] %}
-        <th>{{ column[0] | markdownify }}</th>
-    {% endfor %}
+        <th>Start</th>
+        <th>End</th>
+        <th>Activity</th>
+        <th>Location</th>
+        <!-- <th>Authors</th> -->
     </thead>
     <tbody>
     {% for row in data %}
-        <tr>
-        {% for cell in row %}
-            <td>{{ cell[1] | markdownify }}</td>
-        {% endfor %}
-        </tr>
+    <tr>
+        <td>
+        {{ row["Start Time"] | markdownify }}
+        </td>
+        <td>
+        {{ row["End Time"] | markdownify }}
+        </td>
+        <td>
+        {{ row["Activity"] | markdownify }}   
+        {{ row["Talk Title"] | markdownify }}
+        </td>
+        <td>
+        {{ row["Location"] | markdownify }}   
+        </td>
+    </tr>
     {% endfor %}
     </tbody>
 </table>
@@ -68,17 +82,29 @@ The ***Probabilistic Programming and Intelligence*** and ***Languages and System
 
 <table class="schedule">
     <thead>
-    {% for column in data[0] %}
-        <th>{{ column[0] | markdownify }}</th>
-    {% endfor %}
+        <th>Start</th>
+        <th>End</th>
+        <th>Activity</th>
+        <th>Location</th>
+        <!-- <th>Authors</th> -->
     </thead>
     <tbody>
     {% for row in data %}
-        <tr>
-        {% for cell in row %}
-            <td>{{ cell[1] | markdownify }}</td>
-        {% endfor %}
-        </tr>
+    <tr>
+        <td>
+        {{ row["Start Time"] | markdownify }}
+        </td>
+        <td>
+        {{ row["End Time"] | markdownify }}
+        </td>
+        <td>
+        {{ row["Activity"] | markdownify }}   
+        {{ row["Talk Title"] | markdownify }}
+        </td>
+        <td>
+        {{ row["Location"] | markdownify }}   
+        </td>
+    </tr>
     {% endfor %}
     </tbody>
 </table>
