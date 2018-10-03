@@ -66,3 +66,5 @@ layout: default
     {% endfor %}
     </tbody>
 </table>
+
+{% include footer.md %}

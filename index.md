@@ -83,6 +83,4 @@ We are actively working to ensure that the PROBPROG conference is inclusive in t
 
 We welcome feedback from the community on policies and measures that help establish a venue that is welcoming to all participants. Please direct such suggestions and comments to [probprog-chairs@googlegroups.com](probprog-chairs@googlegroups.com).
 
-## Sponsorship
-
-For more information on the industry day and on sponsorship opportunities, please contact the organizers at [probprog-chairs@googlegroups.com](probprog-chairs@googlegroups.com) with "PROBPROG Industry" in the subject line.
+{% include footer.md %}

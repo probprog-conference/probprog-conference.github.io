@@ -33,3 +33,5 @@ If someone makes you or anyone else feel unsafe or unwelcome, please report it a
 You can make an anonymous report here: 
 
 [https://probprog2018.wufoo.com/forms/z4tcxv30f7eyz1/](https://probprog2018.wufoo.com/forms/z4tcxv30f7eyz1/)
+
+{% include footer.md %}

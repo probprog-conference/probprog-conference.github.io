@@ -82,3 +82,5 @@ The ***Probabilistic Programming and Intelligence*** and ***Languages and System
     {% endfor %}
     </tbody>
 </table>
+
+{% include footer.md %}
