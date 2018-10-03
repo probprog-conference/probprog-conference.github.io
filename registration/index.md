@@ -36,4 +36,4 @@ Attendees who will need an invitation letter in support of a visa application ca
 
 [https://goo.gl/forms/s94sNmO93Z7Fk6jj1](https://goo.gl/forms/s94sNmO93Z7Fk6jj1)
 
-
+{% include footer.md %}
