@@ -64,7 +64,17 @@ session will take place in [MIT Wiesner Building E15](https://whereis.mit.edu/?g
         </td>
         <td>
         {{ row["Activity"] | markdownify }}   
-        {{ row["Talk Title"] | markdownify }}
+        {%- capture links -%}
+            {%- if row["Release"] == "Yes" -%}
+               {%- if row["Video"].size > 0 -%}
+                    <a href='{{ row["Video"] }}'>video</a>{% if row["Slides"].size > 0 %} | {% endif %} 
+               {%- endif -%} 
+            {%- endif -%}
+            {%- if row["Slides"].size > 0 -%}
+                <a href='{{ "/assets/slides/" | append:row["Slides"] }}'>slides</a>
+            {%- endif -%} 
+        {%- endcapture -%}
+        {{ row["Talk Title"] }} {% if links.size > 0 %} [{{links}}] {% endif %}
         </td>
         <td>
         {{ row["Location"] | markdownify }}   
@@ -99,7 +109,17 @@ The ***Probabilistic Programming and Intelligence*** and ***Languages and System
         </td>
         <td>
         {{ row["Activity"] | markdownify }}   
-        {{ row["Talk Title"] | markdownify }}
+        {%- capture links -%}
+            {%- if row["Release"] == "Yes" -%}
+               {%- if row["Video"].size > 0 -%}
+                    <a href='{{ row["Video"] }}'>video</a>{% if row["Slides"].size > 0 %} | {% endif %} 
+               {%- endif -%} 
+            {%- endif -%}
+            {%- if row["Slides"].size > 0 -%}
+                <a href='{{ "/assets/slides/" | append:row["Slides"] }}'>slides</a>
+            {%- endif -%} 
+        {%- endcapture -%}
+        {{ row["Talk Title"] }}{% if links.size > 0 %} [{{links}}]{% endif %}
         </td>
         <td>
         {{ row["Location"] | markdownify }}   
