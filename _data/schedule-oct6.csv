@@ -1,23 +1,23 @@
-Start Time,End Time,Activity,Location,Talk Title
-***8:00***,,***Registration***,***Lower Atrium***,
-**8:40**,**12:00**,**Session: Intelligence**,**Bartos Theater**,
-8:40,9:20,Keynote: Stuart Russell (*UC Berkeley*),,Probabilistic programming and AI
-9:20,9:40,Talk: Josh Tenenbaum (*MIT*),,   
-9:40,10:00,Talk: Kristian Kersting (*TU Darmstadt*),,Democratizing Machine Learning using Probabilistic Programming
-10:00,10:20,Talk: Frank Wood (*University of British Columbia*),,Inference Compilation
-***10:20***,***10:40***,***Coffee Break***,,
-10:40,11:00,*Community Announcements and Discussion*,,
-11:00,11:20,"Talk: Noah Goodman (*Uber AI Labs, Stanford*)",,Accelerating science with PPLs for experiment design
-11:20,11:40,Talk: Marco Cusumano-Towner (*MIT*),,Gen: A Flexible System for Programming Probabilistic AI
-11:40,12:00,Talk: Kevin Ellis (*MIT*),,Growing Libraries of Subroutines with Wake/Sleep Bayesian Program Learning
-***12:00***,***14:40***,***[Lunch and Poster Session](/posters/#saturday-october-6th-1200-1440)***,,
-**14:40**,**17:40**,**Session: Languages and Systems**,**Bartos Theater**,
-14:40,15:20,Keynote: Jean-Baptiste Tristan (*Oracle Labs*),,Compilation of Probabilistic Programs
-15:20,15:40,Talk: Angelika Kimmig (*University of Cardiff*),, A short introduction to probabilistic logic programming
-15:40,16:00,Talk: Hongseok Yang (*KAIST*),,Reparameterization Gradient for Non-differentiable Models from Probabilistic Programming
-16:00,16:20,Talk: Chung-Chieh (Ken) Shan (*Indiana University*),,Calculating distributions
-***16:20***,***16:40***,***Coffee Break***,,
-16:40,17:00,Talk: Adam Scibior (*University of Cambridge*),,Denotational account of approximate Bayesian inference
-17:00,17:20,Talk: Sarah Chasins (*UC Berkeley*),,Data-Driven Synthesis of Full Probabilistic Programs
-17:20,17:40,Talk: Eric Atkinson (*MIT*),,Verifying Handcoded Probabilistic Inference Procedures
-17:40,18:00,Talk: Timon Gehr (*ETH*),,PSI: Exact Symbolic Inference for Probabilistic Programs
+Start Time,End Time,Activity,Location,Talk Title,Video,Release,Slides,Movie
+***8:00***,,***Registration***,***Lower Atrium***,,,,,
+**8:40**,**12:00**,**Session: Intelligence**,**Bartos Theater**,,,,,
+8:40,9:20,Keynote: Stuart Russell (*UC Berkeley*),,Probabilistic programming and AI,https://youtu.be/JzBrp5LnNCo,Yes,Stuart-Russell.pdf,
+9:20,9:40,Talk: Josh Tenenbaum (*MIT*),,Towards More Human-like Intelligence in Machines,https://youtu.be/0Tj6CeYCmzw,Yes,,
+9:40,10:00,Talk: Kristian Kersting (*TU Darmstadt*),,Democratizing Machine Learning using Probabilistic Programming,https://youtu.be/A8IA5u3gWRs,Yes,Kristian-Kersting.pdf,
+10:00,10:20,Talk: Frank Wood (*University of British Columbia*),,Inference Compilation,https://youtu.be/jp3noyIYAbA,Yes,Frank-Wood.pdf,
+***10:20***,***10:40***,***Coffee Break***,,,,,,
+10:40,11:00,*Community Announcements and Discussion*,,,,,,
+11:00,11:20,"Talk: Noah Goodman (*Uber AI Labs, Stanford*)",,Accelerating science with PPLs for experiment design,https://youtu.be/QIewwBOeQh0,Yes,,
+11:20,11:40,Talk: Marco Cusumano-Towner (*MIT*),,Gen: A Flexible System for Programming Probabilistic AI,https://youtu.be/f-gaf-Yro40,Yes,Marco-Cusumano-Towner.pdf,
+11:40,12:00,Talk: Kevin Ellis (*MIT*),,Growing Libraries of Subroutines with Wake/Sleep Bayesian Program Learning,https://youtu.be/_oyGF1YqdJc,Yes,Kevin-Ellis.pdf,
+***12:00***,***14:40***,***[Lunch and Poster Session](/posters/#saturday-october-6th-1200-1440)***,,,,,,
+**14:40**,**17:40**,**Session: Languages and Systems**,**Bartos Theater**,,,,,
+14:40,15:20,Keynote: Jean-Baptiste Tristan (*Oracle Labs*),,Compilation of Probabilistic Programs,https://youtu.be/aEpVppFBFbs,Yes,Jean-Baptiste-Tristan.pdf,
+15:20,15:40,Talk: Angelika Kimmig (*University of Cardiff*),, A short introduction to probabilistic logic programming,https://youtu.be/5g0Z5b77rOs,Yes,,
+15:40,16:00,Talk: Hongseok Yang (*KAIST*),,Reparameterization Gradient for Non-differentiable Models from Probabilistic Programming,https://youtu.be/SVQl2ExzNsw,Yes,Hongseok-Yang.pdf,
+16:00,16:20,Talk: Chung-Chieh (Ken) Shan (*Indiana University*),,Calculating distributions,https://youtu.be/NMuLAsIfwr8,Yes,Chung-Chieh-Shan.pdf,
+***16:20***,***16:40***,***Coffee Break***,,,,,,
+16:40,17:00,Talk: Adam Scibior (*University of Cambridge*),,Denotational account of approximate Bayesian inference,https://youtu.be/oj_ckmLOyXA,Yes,Adam-Scibior.pdf,
+17:00,17:20,Talk: Sarah Chasins (*UC Berkeley*),,Data-Driven Synthesis of Full Probabilistic Programs,https://youtu.be/FNYHS1WEFWY,Yes,,
+17:20,17:40,Talk: Eric Atkinson (*MIT*),,Verifying Handcoded Probabilistic Inference Procedures,https://youtu.be/4WweBhMzvSM,Yes,,
+17:40,18:00,Talk: Timon Gehr (*ETH*),,PSI: Exact Symbolic Inference for Probabilistic Programs,https://youtu.be/4DEOYw8J24w,No,,

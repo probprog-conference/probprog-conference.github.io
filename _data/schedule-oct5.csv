@@ -1,22 +1,22 @@
-Start Time,End Time,Activity,Location,Talk Title
-***8:00***,,***Registration***,***Lower Atrium***,
-**8:40**,**12:00**,**Session: Practice of Probabilistic Programming**,**Bartos Theater**,
-8:40,9:20,"Keynote: Zoubin Ghahramani (*Uber AI Labs, University of Cambridge*)",,Probabilistic Machine Learning: From theory to industrial impact
-9:20,9:40,"Talk: Daniel Lee (*Stan Development Team*, *Generable*)",,"Dear Stan, I meant to write you sooner but I just been busy "
-9:40,10:00,Talk: Yordan Zaykov (*Microsoft Research*),,Probabilistic programming in production with Infer.NET
-10:00,10:20,Talk: Michael Tingley (*Facebook*),,Probabilistic programming @ FB
-***10:20***,***10:40***,***Coffee Break***,,
-10:40,11:00,Talk: Daniel Ritchie (*Brown*),,Probabilistic Programming for Computer Graphics
-11:00,11:20,Talk: Dustin Tran (*Google*),,What might deep learners learn from probabilistic programming?
-11:20,11:40,"Talk: Brooks Paige (*Alan Turing Institute, University of Cambridge*)",,Semi-interpretable probabilistic models
-11:40,12:00,Talk: Ulrich Schaechtle (*MIT*),,Automated data modeling for science via Bayesian probabilistic program synthesis
-***12:00***,***15:00***,***[Lunch and Poster Session](/posters/#friday-october-5th-1200-1500)***,,
-**15:00**,**18:00**,**Session: Statistics and Data Analysis**,**Bartos Theater**,
-15:00,15:40,Keynote: Dave Blei (*Columbia University*),,Black Box Variational Inference
-15:40,16:00,Talk: Lawrence Murray (*Uppsala University*),,Automated learning with a probabilistic programming language: Birch
-16:00,16:20,Talk: Dan Roy (*University of Toronto*),,Algorithmic Barriers to Representing Conditional Independence
-***16:20***,***16:40***,***Coffee Break***,,
-16:40,17:00,Talk: Tom Rainforth (*University of Oxford*),,Nesting Probabilistic Programs
-17:00,17:20,Talk: Maria Gorinova (*University of Edinburgh*),,SlicStan: Optimising Probabilistic Programs using Information Flow Analysis
-17:20,17:40,Talk: Hong Ge & Kai Xu (*University of Cambridge*),,The Turing Language for Probabilistic Programming
-17:40,18:00,Talk: Feras Saad (*MIT*),,Bayesian Synthesis of Probabilistic Programs for Automatic Data Modeling
+Start Time,End Time,Activity,Location,Talk Title,Video,Release,Slides,Movie
+***8:00***,,***Registration***,***Lower Atrium***,,,,,
+**8:40**,**12:00**,**Session: Practice of Probabilistic Programming**,**Bartos Theater**,,,,,
+8:40,9:20,"Keynote: Zoubin Ghahramani (*Uber AI Labs, University of Cambridge*)",,Probabilistic Machine Learning: From theory to industrial impact,https://youtu.be/crvNIGyqGSU,Yes,,
+9:20,9:40,"Talk: Daniel Lee (*Stan Development Team*, *Generable*)",,"Dear Stan, I meant to write you sooner but I just been busy ",https://youtu.be/3Q_E7RztJL8,Yes,Daniel-Lee.pdf,
+9:40,10:00,Talk: Yordan Zaykov (*Microsoft Research*),,Probabilistic programming in production with Infer.NET,https://youtu.be/g_LSbqLBdM0,Yes,Yordan-Zaykov.pdf,
+10:00,10:20,Talk: Michael Tingley (*Facebook*),,Probabilistic programming @ FB,https://youtu.be/gn6M8MX8jpI,Yes,,
+***10:20***,***10:40***,***Coffee Break***,,,,,,
+10:40,11:00,Talk: Daniel Ritchie (*Brown*),,Probabilistic Programming for Computer Graphics,https://youtu.be/QprVu_pLT4w,Yes,Daniel-Ritchie.pdf,05-Daniel-Ritchie.mp4
+11:00,11:20,Talk: Dustin Tran (*Google*),,What might deep learners learn from probabilistic programming?,https://youtu.be/30FDdK2734I,Yes,Dustin-Tran.pdf,
+11:20,11:40,"Talk: Brooks Paige (*Alan Turing Institute, University of Cambridge*)",,Semi-interpretable probabilistic models,https://youtu.be/X7ED8Fi1948,Yes,,
+11:40,12:00,Talk: Ulrich Schaechtle (*MIT*),,Automated data modeling for science via Bayesian probabilistic program synthesis,https://youtu.be/ebC6izNXgEw,Yes,,
+***12:00***,***15:00***,***[Lunch and Poster Session](/posters/#friday-october-5th-1200-1500)***,,,,,,
+**15:00**,**18:00**,**Session: Statistics and Data Analysis**,**Bartos Theater**,,,,,
+15:00,15:40,Keynote: Dave Blei (*Columbia University*),,Black Box Variational Inference,https://youtu.be/-H2N4tVDK7I,Yes,Dave-Blei.pdf,
+15:40,16:00,Talk: Lawrence Murray (*Uppsala University*),,Automated learning with a probabilistic programming language: Birch,https://youtu.be/3FUaQGyAPCc,Yes,,
+16:00,16:20,Talk: Dan Roy (*University of Toronto*),,Algorithmic Barriers to Representing Conditional Independence,https://youtu.be/i2xtOLphQzU,Yes,,
+***16:20***,***16:40***,***Coffee Break***,,,,,,
+16:40,17:00,Talk: Tom Rainforth (*University of Oxford*),,Nesting Probabilistic Programs,https://youtu.be/vI4r9avPX9Y,Yes,Tom-Rainforth.pdf,
+17:00,17:20,Talk: Maria Gorinova (*University of Edinburgh*),,SlicStan: Optimising Probabilistic Programs using Information Flow Analysis,https://youtu.be/JLw2X0vPhMg,Yes,Maria-Gorinova.pdf,
+17:20,17:40,Talk: Hong Ge & Kai Xu (*University of Cambridge*),,The Turing Language for Probabilistic Programming,https://youtu.be/HtQF7Ebo4kY,No,Hong-Ge-and-Kai-Xu.pdf,
+17:40,18:00,Talk: Feras Saad (*MIT*),,Bayesian Synthesis of Probabilistic Programs for Automatic Data Modeling,https://youtu.be/l_PV1o3DK0g,Yes,,
