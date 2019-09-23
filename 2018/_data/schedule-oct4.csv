@@ -1,0 +1,30 @@
+Start Time,End Time,Activity,Location
+***10:00***,,***Registration***,[BCS 3310](https://whereis.mit.edu/?go=46)
+10:30,10:40,Welcome ,[BCS 3310](https://whereis.mit.edu/?go=46)
+10:40,12:00,Speed Networking,[BCS 3310](https://whereis.mit.edu/?go=46)
+***12:00***,***13:00***,***Lunch Break***,
+13:00,14:30,Tutorial by Vikash Mansinghka,[BCS 3189](https://whereis.mit.edu/?go=46)
+***14:30***,***15:00***,***Coffee Break and Networking***,[BCS 3310](https://whereis.mit.edu/?go=46)
+15:00,16:30,"**Industry Discussions**   
+ Probabilistic Programming for Analytics Consulting   
+ Probabilistic Programming and Deep Learning   
+ (*[Email](mailto:probprog-chairs@googlegroups.com) us to propose additional topics*)",[BCS 3189](https://whereis.mit.edu/?go=46)
+15:00,16:30,"**Developer Meetup**   
+[Anglican](http://anglican.ml/): David Tolpin, Jan-Willem van de Meent, Frank Wood   
+[BayesDB](http://probcomp.csail.mit.edu/bayesdb/): Ulrich Schaechtle, Feras Saad   
+[Birch](birch-lang.org): Lawrence Murray   
+[BLOG](http://bayesianlogic.github.io/): Yi Wu   
+[ForneyLab.jl](forneylab.org): Bert de Vries, Marco Cox, Thijs van de Laar   
+[Gen](https://github.com/probcomp/Gen): Marco Cusumano-Towner   
+[Infer.NET](http://infernet.azurewebsites.net/): Yordan Zaykov   
+[MetaProb](): Zane Shelby, Tim Trautman, Jonathan Rees, Alex Lew   
+[MonadBayes](https://github.com/adscib/monad-bayes): Adam Ścibior   
+[Omega](https://github.com/zenna/Omega.jl): Javier Burroni   
+[Probabilistic Torch](https://github.com/probtorch/probtorch): Alican Bozkurt, Jan-Willem van de Meent   
+[PSL](https://psl.linqs.org): Eriq Augustine   
+[PyMC3](https://docs.pymc.io/ ): Colin Carroll   
+[Pyro](http://pyro.ai): Eli Bingham, Fritz Obermeyer   
+[Rainier](https://github.com/stripe/rainier): Avi Bryant   
+[Stan](http://mc-stan.org): Matthijs Vakar, Sean Talts   
+[TensorFlow Probability](https://www.tensorflow.org/probability/): Alexey Radul, Dave Moore   
+[Turing.jl](turing.ml): Hong Ge   ",[BCS 3310](https://whereis.mit.edu/?go=46)
