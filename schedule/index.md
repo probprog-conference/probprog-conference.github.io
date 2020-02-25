@@ -1,5 +1,5 @@
 ---
-title: PROBPROG 2018 Schedule
+title: PROBPROG 2020 Schedule
 layout: default
 ---
 
