@@ -1,11 +1,11 @@
-name: "PROBPROG 2018"
+name: "PROBPROG 2020"
 url: http://probprog-conference.github.io
-baseurl: /2018
+#baseurl: /
 permalink: /:year/:month/:day/:title
 timezone: America/New_York
 
 navigation:
-- text: Overview
+- text: Program
   url: /
 - text: Schedule
   url: /schedule/
