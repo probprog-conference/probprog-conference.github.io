@@ -1,13 +1,14 @@
 ---
-title: PROBPROG 2018
+title: PROBPROG 2018 - Call for Submissions
 layout: default
 ---
 
+[OVERVIEW](/) [SUBMISSIONS](/submissions)
+
 # Dates and Location
 
-- **Conference Dates**: Thu 4 - Sat 6 Oct 2018
-- **Conference Location**: [Wiesner Building E15](https://whereis.mit.edu/?go=E15) MIT, Cambridge, MA, USA
-- **Submission Deadline**: <span style="color:red"><strike>Wed Aug 1, 2018 11:59 PM AOE</strike></span> 
+- **Dates**: Thu 4 - Sat 6 Oct 2018
+- **Location**: Boston, MA, USA
 
 The inaugural *International Conference on Probabilistic Programming (PROBPROG)* will be held in Boston, MA on Thursday October 4th, Friday Oct 5th, and Saturday October 6th.
 
@@ -58,8 +59,9 @@ This track is centered on four themes: (i) probabilistic programs and systems ba
 
 # Call for Submissions
 
-- **Deadline**: <span style="color:red"><strike>Wed Aug 1, 2018 11:59 PM AOE</strike></span> 
-- **Submit at**: [https://cmt3.research.microsoft.com/PROBPROG2018](https://cmt3.research.microsoft.com/PROBPROG2018/)
+- **Deadline**: Fri July 13, 2018 11:59 PM UTC.
+- **Submit at**: https://cmt.research.microsoft.com/PROBPROG2018/
+- **LaTex Style Files**: http://probprog.cc/probprog2018_stylefiles.zip
 
 This first year, we are focused on (i) creating a venue that can support the growth of probabilistic programming, in academia, industry, government, and the non-profit sector, and (ii) gathering a community that can provide rigorous peer review for research papers in future years.
 
@@ -69,14 +71,12 @@ Accordingly, we are soliciting the following kinds of submissions:
 
 - Highlights of already-published probabilistic programming research, that could be of interest to the PROBPROG community, or would benefit from PROBPROG feedback.
 
-- Work that discusses the design and implementation of probabilistic programming systems, or the application of probabilistic programs. 
+- Demonstrations of probabilistic programming systems.
 
-Submissions should be 2-page abstracts (exclusive of references), and should not be anonymized. Abstracts should use the [ACM SIGPLAN format](http://www.sigplan.org/Resources/Author/). Submissions will be lightly reviewed for technical correctness and topicality. Accepted submissions may be included in poster sessions, demos, or talk sessions.
+Submissions should be 2-page abstracts, and should not be anonymized. Submissions will be lightly reviewed for technical correctness and topicality. Accepted submissions may be included in poster sessions, demos, or talk sessions.
 
 Community feedback at PROGPROG 2018 will inform the PROBPROG Steering Committee's decisions around when to create a peer-reviewed probabilistic programming journal and/or conference proceedings.
 
-# Diversity
+# Sponsorship
 
-We are actively working to ensure that the PROBPROG conference is inclusive in the broadest sense. In particular, we encourage contributions from participants whose gender, sexual orientation, and/or ethnic identities are underrepresented in the field.
-
-We welcome feedback from the community on policies and measures that help establish a venue that is welcoming to all participants. Please direct such suggestions and comments to [probprog-chairs@googlegroups.com](probprog-chairs@googlegroups.com).
+For more information on the industry day and on sponsorship opportunities, please contact the organizers at [probprog-chairs@googlegroups.com](probprog-chairs@googlegroups.com) with "PROBPROG Industry" in the subject line.

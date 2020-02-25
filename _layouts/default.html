@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link href="{{ '/assets/css/bootstrap.min.css' | relative_url }}" rel="stylesheet">
+    <link href="{{ '/assets/css/style.css' | relative_url }}" rel="stylesheet">
+
+    <title>PROBPROG 2020</title>
+  </head>
+
+  <body>
+    <div class="container">
+
+      <div class="header row">
+        {% include header.html %}       
+      </div>
+
+      <div class="content row">
+        <div class="col">
+        {{ content }}
+        </div>
+      </div>
+
+      <div class="footer row">
+        {% include footer.html %}       
+      </div>
+    </div>
+
+    <script src="{{ '/assets/js/bootstrap.min.js' | relative_url }}"></script>
+
+  </body>
+</html>

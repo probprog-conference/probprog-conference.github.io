@@ -3,8 +3,6 @@ title: PROBPROG 2018 Code of Conduct
 layout: default
 ---
 
-{% include header.md %}
-
 ## Code of Conduct
 
 PROBPROG 2018 is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers. 
@@ -33,5 +31,3 @@ If someone makes you or anyone else feel unsafe or unwelcome, please report it a
 You can make an anonymous report here: 
 
 [https://probprog2018.wufoo.com/forms/z4tcxv30f7eyz1/](https://probprog2018.wufoo.com/forms/z4tcxv30f7eyz1/)
-
-{% include footer.md %}

@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="{{site.baseurl}}/assets/css/style.css" rel="stylesheet">
+    <title>PROBPROG 2018</title>
+  </head>
+
+  <body>
+    <div class="content">
+      {{ content }}
+    </div>
+  </body>
+</html>

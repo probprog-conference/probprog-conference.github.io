@@ -1,79 +1,143 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+$white: #FFF;
+$purple: #2F1731;
+$orange: #ff5733;
+$green: #39f5e6;
+$text-color: #000;
+$border-color: #eaecef;
+$pad-horizontal: 25px;
+$pad-vertical: 15px;
+$table-alternate-row: #f6f8fa;
+$header-size: 200%;
 
-.markdown-body h1 {
-    border-bottom: none;
-    padding: 0;
-    /*padding-left: 12px;*/
-    margin: 0;
-}
-
-.markdown-body h1 + p {
-    margin: 0;
-    padding: 0;
-}
-
-.markdown-body h1 + p + ul {
-    list-style-type: none;
-    margin: 0;    
-    padding: 12px 0;
-    /*padding-left: 12px;*/
-    /*border-top: 1px solid #eaecef;*/
-    /*border-bottom: 1px solid #eaecef;*/
-    /*background: #eaecef ;*/
-    /*background: #edeae3;*/
-}
-
-.markdown-body h1 + p + ul > li {
-    display: inline;
-    margin-right: 3em;
-    margin-top: 1ex;
-    margin-bottom: 1ex;
-}
-
-.markdown-body  h1 + p + ul > li > a {
-    text-transform: uppercase;
-    font-weight: bold;
-}
-
-.markdown-body h1 + p + ul + p {
-    margin: 0; 
-    padding: 0; 
-}
-
-
-.markdown-body h1 + p + ul + p > img {
-    /*border-top: 1px solid #eaecef;*/
-    border-bottom: 1px solid #eaecef;
-    margin: 0;
-    padding: 0;
-}
-
-
-.markdown-body h2 {
-    /*border-top: 1px solid #eaecef;*/
-    border-bottom: 1px solid #eaecef;
+h1 {
+    // border-bottom: 1px solid $border-color;
     margin: 8px 0;
     padding: 8px 0;
+    font-size: $header-size; 
+    font-weight: 400;
 }
 
 
-.markdown-body td > p {
+td > p {
     margin-bottom: 0;
 }
 
-.markdown-body th > p {
+th > p {
     margin-bottom: 0;
 }
 
-.markdown-body table.schedule {
+table.schedule {
     display: table;
     width: 100%;
+    border-top: 1px solid $border-color;
+    border-bottom: 1px solid $border-color;
 }
 
-.markdown-body table.schedule td, .markdown-body table.schedule th {
+table.schedule tr {
+    border-top: 1px solid $border-color;
+}
+
+table.schedule td, .markdown-body table.schedule th {
     vertical-align: top;
     text-align: left;
 }
+
+table.schedule tr:nth-child(2n) {
+    background-color: $table-alternate-row;
+}
+
+ul, ol  {
+ padding-left: 1.1em;   
+}
+
+
+
+
+.header {
+  padding-left: $pad-horizontal;
+  padding-top: $pad-vertical;
+  padding-bottom: $pad-vertical;
+  margin-bottom: $pad-vertical;
+  color: $white;
+  background: $purple;
+}
+
+.header .col-md-6 {
+  padding-left: 0px;
+}
+
+
+.nav {
+  white-space: nowrap;
+}
+
+.nav, .title {
+   font-weight: 400;
+   font-size: $header-size;
+}
+
+div.title {
+    padding-left: 0;
+}
+
+.nav > li > a {
+  font-family: "HelveticaNeueW01-67MdCn 692710", "HelveticaNeueW01-45Ligh", "Helvetica Neue", HelveticaNeue, Helvetica, sans-serif;
+  font-weight: 400;
+  font-size: 19px;
+  border-bottom: 2px solid transparent;
+  border-radius: 0;
+  font-style: normal;
+  padding: 10px 0px;
+  margin: 0px 10px;
+  text-decoration: none;
+  color: $white;
+}
+
+.nav > li > a:hover,
+.nav > li > a:focus {
+  color: #d41b2c;
+}
+
+.nav > li.active > a,
+.nav > li.active > a:hover,
+.nav > li.active > a:focus 
+{
+  color: #d41b2c;
+}
+
+.nav-pills > li + li {
+  margin-left: 5px;
+}
+
+.content {
+    padding-left: $pad-horizontal;
+    padding-right: $pad-horizontal;
+}
+
+div.content > .col {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.footer {
+  border-top: 1px solid $purple;
+  padding-left: $pad-horizontal;
+  padding-top: $pad-vertical;
+  margin-top: $pad-vertical;
+}
+
+.footer > .row {
+  padding-left: $pad-horizontal;
+  padding-right: $pad-horizontal;
+}
+
+span.text-orange {
+  color: $orange;
+}
+
+
+
+

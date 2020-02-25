@@ -1,0 +1,20 @@
+<div class="col">
+  <div class="row">
+  
+    <div class="title col-sm-12 col-md-4">
+      PROB<span class="text-orange">PROG</span>2020
+    </div>
+  
+    <div class="col-sm-12 col-md-8">
+      <ul class="nav nav-pills float-right">
+        {% for link in site.navigation %}
+        {% capture url %}{{site.baseurl}}{{link.url}}{% endcapture %}
+        <li {% if page.url == link.url %}class="active"{% endif %}>
+          <a href="{{url}}" title="{{link.title}}">{{link.text}}</a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</div>
+

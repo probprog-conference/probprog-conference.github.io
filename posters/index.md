@@ -3,9 +3,7 @@ title: PROBPROG 2018 Posters
 layout: default
 ---
 
-{% include header.md %}
-
-## Friday October 5th, 12:00-15:00
+# Friday October 5th, 12:00-15:00
 
 <table class="schedule">
     <thead>
@@ -36,7 +34,7 @@ layout: default
     </tbody>
 </table>
 
-## Saturday October 6th, 12:00-14:40
+# Saturday October 6th, 12:00-14:40
 
 <table class="schedule">
     <thead>
@@ -66,5 +64,3 @@ layout: default
     {% endfor %}
     </tbody>
 </table>
-
-{% include footer.md %}
