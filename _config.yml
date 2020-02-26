@@ -6,10 +6,6 @@ timezone: America/New_York
 
 navigation:
 - text: Program
-  url: /
-- text: Schedule
-  url: /schedule/
-- text: Registration
-  url: /registration/
+  url: /program/
 - text: Conduct
   url: /conduct/

@@ -20,6 +20,10 @@ h1 {
     font-weight: 400;
 }
 
+h2 {
+    font-size: 150%;
+    font-weight: 400;
+}
 
 td > p {
     margin-bottom: 0;
@@ -60,7 +64,7 @@ ul, ol  {
   padding-left: $pad-horizontal;
   padding-top: $pad-vertical;
   padding-bottom: $pad-vertical;
-  margin-bottom: $pad-vertical;
+  // margin-bottom: $pad-vertical;
   color: $white;
   background: $purple;
 }
@@ -83,6 +87,13 @@ div.title {
     padding-left: 0;
 }
 
+.title > a {
+    color: $white;
+    &:hover {
+        text-decoration: none;
+    }
+}
+
 .nav > li > a {
   font-family: "HelveticaNeueW01-67MdCn 692710", "HelveticaNeueW01-45Ligh", "Helvetica Neue", HelveticaNeue, Helvetica, sans-serif;
   font-weight: 400;
@@ -98,14 +109,26 @@ div.title {
 
 .nav > li > a:hover,
 .nav > li > a:focus {
-  color: #d41b2c;
+  color: $orange;
 }
 
 .nav > li.active > a,
 .nav > li.active > a:hover,
 .nav > li.active > a:focus 
 {
-  color: #d41b2c;
+  color: $white;
+  border-bottom: 2px solid $orange;
+}
+
+.nav > li.external > a {
+  color: $green;
+  border: 2px solid $white;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+.nav > li.external > a:hover {
+  color: $white;
 }
 
 .nav-pills > li + li {
@@ -126,7 +149,12 @@ div.content > .col {
   border-top: 1px solid $purple;
   padding-left: $pad-horizontal;
   padding-top: $pad-vertical;
-  margin-top: $pad-vertical;
+  // margin-top: $pad-vertical;
+}
+
+.footer > div[class^="col"] {
+    padding-left: 0; 
+    padding-right: 0;
 }
 
 .footer > .row {
@@ -134,10 +162,50 @@ div.content > .col {
   padding-right: $pad-horizontal;
 }
 
-span.text-orange {
+.text-orange {
   color: $orange;
 }
 
+.landing {
+    font-size: 133%;
+    color: $white;
+    background: $purple;
+    padding-top: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 30px;
 
+}
+
+.btn-custom {
+    text-transform: uppercase;
+    color: $white!important;
+    background: $green;
+    padding: 16px 30px;
+    display: inline-block;
+    letter-spacing: .05em;
+    position: relative;
+    > span {
+        position: relative;
+        z-index: 2;
+    }
+    &:before {
+        background: linear-gradient(to right, #c70039, #ff5733 70%);
+        content: "";
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        top: 0;
+        width: 0;
+        transition: .3s all ease-in-out;
+        z-index: 1;
+    }
+    &:hover {
+        &:before {
+            width: 100%;
+        }
+        text-decoration: none;
+    }
+}
 
 

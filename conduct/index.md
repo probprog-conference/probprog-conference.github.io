@@ -3,7 +3,7 @@ title: PROBPROG 2020 Code of Conduct
 layout: default
 ---
 
-## Code of Conduct
+# Code of Conduct
 
 PROBPROG 2020 is dedicated to providing a harassment-free conference
 experience for everyone, regardless of gender, gender identity and
@@ -26,13 +26,13 @@ Harassment includes, but is not limited to:
 - Unwelcome sexual attention
 - Advocating for, or encouraging, any of the above behaviour
 
-### Enforcement
+## Enforcement
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 If a participant engages in harassing behaviour, event organisers retain the right to take any actions to keep the event a welcoming environment for all participants. This includes warning the offender or expulsion from the conference.
 Event organisers may take action to redress anything designed to, or with the clear impact of, disrupting the event or making the environment hostile for any participants.
 
-### Anonymous Reporting 
+## Anonymous Reporting 
 
 If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible. Harassment and other code of conduct violations reduce the value of our event for everyone. We want you to be happy at our event. People like you make our event a better place.
 
