@@ -113,8 +113,8 @@ practitioners.
 
 - **Deadline**: <span style="color:red"><strike>Jan 10, 2020 11:59 PM AOE</strike></span> 
 - **Submit at**: [https://cmt3.research.microsoft.com/PROBPROG2020](https://cmt3.research.microsoft.com/PROBPROG2020/)
-- **Style Files**: [ZIP](https://probprog.cc/2020/probprog-2020-style.zip)
-- **Overview and Call for Submission**: [PDF](https://probprog.cc/Prob_Prog_2020___Paper_Submission_Guidelines.pdf)
+- **Style Files**: [ZIP](/2020/probprog-2020-style.zip)
+- **Overview and Call for Submission**: [PDF](/2020/progprog-2020-submission-guidelines.pdf)
 
 The PROBPROG 2020 conference is seeking two kinds of submissions:
 
