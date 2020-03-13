@@ -5,17 +5,19 @@ layout: default
 
 # Dates and Location
 
-- **Conference Dates**: Thu 23 - Sat 25 April 2020
+- **Conference Dates**: Fall 2020 (previously Apr 23 – 25 2020)
 - **Conference Location**: MIT, Cambridge, MA, USA
 - **Submission Deadline**: <span style="color:red"><strike>Jan 10, 2020 11:59 PM AOE</strike></span> 
 
-The second *International Conference on Probabilistic Programming (PROBPROG)* will be held in Boston, MA on Thursday April 23, Friday April 24, and Saturday April 25.
+The second *International Conference on Probabilistic Programming (PROBPROG)* was originally scheduled be held in Cambridge, MA on Thursday April 23, Friday April 24, and Saturday April 25. 
+
+In response to growing public health concerns surrounding the COVID-19 outbreak, we have decided to postpone PROBPROG 2020 to a date in Fall 2020. This decision reflects our best judgement as conference organizers, as well as [policies](https://medical.mit.edu/news/2020/01/2019-novel-coronavirus-updates-1) set by MIT. We are currently hard at work to determine what dates will be most suitable for a Fall conference. Further communication will follow once dates have been confirmed. 
 
 # Program Overview
 
-- **Thursday April 23**: Industry day, Tutorials, and Open-Source Meetup
-- **Friday April 24**: Main conference
-- **Saturday October 6th**: Main conference
+- **Thursday (date TBD)**: Industry day, Tutorials, and Open-Source Meetup
+- **Friday (date TBD)**: Main conference
+- **Saturday (date TBD)**: Main conference
 
 Probabilistic programming is an emergent field based on the idea that
 probabilistic models can be efficiently represented as executable

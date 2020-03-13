@@ -179,9 +179,19 @@ div.content > .col {
 
 }
 
+.small {
+    font-size: 80%;
+}
+
+.landing a {
+  color: $white;
+  text-decoration: underline;
+}
+
 .btn-custom {
     text-transform: uppercase;
     color: $white!important;
+    text-decoration: none!important;
     background: $green;
     padding: 16px 30px;
     display: inline-block;
