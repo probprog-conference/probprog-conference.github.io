@@ -7,6 +7,8 @@ timezone: America/New_York
 navigation:
 - text: Program
   url: /program/
+- text: Submissions
+  url: /submissions/
 - text: Conduct
   url: /conduct/
 - text: 2018

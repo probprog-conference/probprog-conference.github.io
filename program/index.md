@@ -5,19 +5,17 @@ layout: default
 
 # Dates and Location
 
-- **Conference Dates**: Fall 2020 (previously Apr 23 – 25 2020)
+- **Conference Dates**: Oct 22 - 24 2020 (previously Apr 23 – 25 2020)
 - **Conference Location**: MIT, Cambridge, MA, USA
 - **Submission Deadline**: <span style="color:red"><strike>Jan 10, 2020 11:59 PM AOE</strike></span> 
 
-The second *International Conference on Probabilistic Programming (PROBPROG)* was originally scheduled be held in Cambridge, MA on Thursday April 23, Friday April 24, and Saturday April 25. 
-
-In response to growing public health concerns surrounding the COVID-19 outbreak, we have decided to postpone PROBPROG 2020 to a date in Fall 2020. This decision reflects our best judgement as conference organizers, as well as [policies](https://medical.mit.edu/news/2020/01/2019-novel-coronavirus-updates-1) set by MIT. We are currently hard at work to determine what dates will be most suitable for a Fall conference. Further communication will follow once dates have been confirmed. 
+The second *International Conference on Probabilistic Programming (PROBPROG)* will be held in Cambridge, MA on Thursday October 22, Friday October 23, and Saturday October 24.
 
 # Program Overview
 
-- **Thursday (date TBD)**: Industry day, Tutorials, and Open-Source Meetup
-- **Friday (date TBD)**: Main conference
-- **Saturday (date TBD)**: Main conference
+- **Thursday 22 October**: Industry day, Tutorials, and Open-Source Meetup
+- **Friday 23 October**: Main conference
+- **Saturday 24 October**: Main conference
 
 Probabilistic programming is an emergent field based on the idea that
 probabilistic models can be efficiently represented as executable
@@ -110,62 +108,6 @@ practitioners.
 - [Jean-Baptiste Tristan](http://jtristan.github.io) (Oracle Labs)
 - [Jan-Willem van de Meent](http://www.ccs.neu.edu/home/jwvdm/) (Northeastern University)
 - [Avi Pfeffer](https://www.linkedin.com/in/avi-pfeffer-03188025/) (Charles River Analytics)
-
-# Call for Submissions
-
-- **Deadline**: <span style="color:red"><strike>Jan 10, 2020 11:59 PM AOE</strike></span> 
-- **Submit at**: [https://cmt3.research.microsoft.com/PROBPROG2020](https://cmt3.research.microsoft.com/PROBPROG2020/)
-- **Style Files**: [ZIP](/2020/probprog-2020-style.zip)
-- **Overview and Call for Submission**: [PDF](/2020/progprog-2020-submission-guidelines.pdf)
-
-The PROBPROG 2020 conference is seeking two kinds of submissions:
-
-1. Extended Abstracts: Authors may submit work in the form of an
-extended abstract of 2-6 pages for consideration for a poster
-presentation, talk, or full-length proceedings submission. Extended
-abstracts are intended as a mechanism for discussing work that may be
-preliminary, and for this reason are non-archival. Titles for accepted
-poster presentations and talks will be listed on the conference
-website. Our aim is to enable researchers to get feedback from the
-PROBPROG community that helps mature the research, strengthen the
-probabilistic programming content, and improve the chances of
-acceptance in top venues aligned with other fields.
-
-2. Syndicated Submissions: Authors may submit work that has been
-accepted for publication in another venue within the last 12 months
-for consideration as a poster presentation or talk. These submissions
-may be full-length and are also non-archival, but will be listed on
-the conference website.
-
-Authors should indicate if they would like their submission to be
-considered for invitation by the online Probabilistic Programming
-journal.
-
-# Online Probabilistic Programming Journal
-
-PROBPROG is a cross-disciplinary venue that aims to balance three goals:
-
-Probabilistic programming conference papers are often accepted at top
-research conferences, e.g. NeurIPS, AISTATS, ICML, UAI, PLDI, and
-POPL. However, there is no existing venue for longer (10-25 page)
-papers, that may require detailed reviews by experts from multiple
-fields. In addition to novel contributions in the general domain of
-probabilistic programming, such papers may **(i)** present unifying
-perspectives on larger research directions in probabilistic
-programming; **(ii)** present key design insights and implementation
-details of important probabilistic programming systems; or **(iii)**
-present in-depth tutorials on techniques and applications that could
-be important to practitioners.
-
-Probabilistic Programming is a new online journal, published
-concurrently with the PROBPROG conference. Probabilistic Programming
-aims to foster the development of probabilistic programming as an
-intellectual activity, and educate the growing community of
-probabilistic programming researchers and practitioners. This year, a
-subset of PROBPROG abstracts will be invited to be expanded into
-articles in the inaugural issue of Probabilistic
-Programming. Submissions should indicate if they would like to be
-considered for these invitations.
 
 # Diversity
 
