@@ -7,13 +7,14 @@ layout: default
 
 - **Conference Dates**: Oct 22 - 24 2020 (previously Apr 23 – 25 2020)
 - **Conference Location**: MIT, Cambridge, MA, USA
-- **Submission Deadline**: <span style="color:red"><strike>Jan 10, 2020 11:59 PM AOE</strike></span> 
+- **Original Deadline**: <span style="color:red"><strike>Jan 10, 2020 11:59 PM AOE</strike></span> 
+- **Late-breaking Deadline**: <span style="color:red">Mon Sep 14, 2020 11:59 PM AOE 
 
-The second *International Conference on Probabilistic Programming (PROBPROG)* will be held in Cambridge, MA on Thursday October 22, Friday October 23, and Saturday October 24.
+The second *International Conference on Probabilistic Programming (PROBPROG)* will be held online on Thursday October 22, Friday October 23, and Saturday October 24.
 
 # Program Overview
 
-- **Thursday 22 October**: Industry day, Tutorials, and Open-Source Meetup
+- **Thursday 22 October**: Industry day and Tutorials
 - **Friday 23 October**: Main conference
 - **Saturday 24 October**: Main conference
 
