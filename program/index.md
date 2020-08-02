@@ -3,16 +3,16 @@ title: PROBPROG 2018
 layout: default
 ---
 
-# Dates and Location
+# Overview
 
 - **Conference Dates**: Oct 22 - 24 2020 (previously Apr 23 – 25 2020)
-- **Conference Location**: MIT, Cambridge, MA, USA
+- **Conference Location**: Online
 - **Original Deadline**: <span style="color:red"><strike>Jan 10, 2020 11:59 PM AOE</strike></span> 
 - **Late-breaking Deadline**: <span style="color:red">Mon Sep 14, 2020 11:59 PM AOE 
 
 The second *International Conference on Probabilistic Programming (PROBPROG)* will be held online on Thursday October 22, Friday October 23, and Saturday October 24.
 
-# Program Overview
+# Program 
 
 - **Thursday 22 October**: Industry day and Tutorials
 - **Friday 23 October**: Main conference
@@ -106,7 +106,7 @@ practitioners.
 # Organizing Committee
 
 - [Vikash Mansinghka](http://probcomp.csail.mit.edu/principal-investigator/) (MIT)
-- [Jean-Baptiste Tristan](http://jtristan.github.io) (Oracle Labs)
+- [Jean-Baptiste Tristan](http://jtristan.github.io) (Boston College)
 - [Jan-Willem van de Meent](http://www.ccs.neu.edu/home/jwvdm/) (Northeastern University)
 - [Avi Pfeffer](https://www.linkedin.com/in/avi-pfeffer-03188025/) (Charles River Analytics)
 

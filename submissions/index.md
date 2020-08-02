@@ -19,7 +19,7 @@ The PROBPROG 2020 conference is seeking two kinds of submissions:
 
 # Late-breaking Submissions
 
-Owing to the fact that there is a 5-month gap between the original conference dates (Apr 23 - 25) and the rescheduled dates (Oct 22 - 24), we would like to invite authors who did not have a chance to submit in January to do so in August.
+Owing to the fact that there is a 5-month gap between the original conference dates (Apr 23 - 25) and the rescheduled dates (Oct 22 - 24), we would like to invite authors who did not have a chance to submit in January to do so in September.
 
 - Authors of submissions that were previously accepted <ins>need not resubmit this cycle</ins>. 
 
