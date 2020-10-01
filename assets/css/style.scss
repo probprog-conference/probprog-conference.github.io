@@ -38,12 +38,26 @@ th > p {
 table.schedule {
     display: table;
     width: 100%;
+    layout: fixed;
     border-top: 1px solid $border-color;
     border-bottom: 1px solid $border-color;
+    margin-bottom: 1.5em;
 }
 
 table.schedule tr {
     border-top: 1px solid $border-color;
+}
+
+th.time {
+    width: 5em;
+}
+
+th.activity {
+    width: 14em;
+}
+
+th.id {
+    width: 3em;
 }
 
 table.schedule td, .markdown-body table.schedule th {
