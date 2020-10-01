@@ -48,6 +48,11 @@ table.schedule tr {
     border-top: 1px solid $border-color;
 }
 
+table.schedule th {
+    border-top: 1px solid #999;
+    border-bottom: 1px solid #999;
+}
+
 th.time {
     width: 5em;
 }
@@ -72,8 +77,6 @@ table.schedule tr:nth-child(2n) {
 ul, ol  {
  padding-left: 1.1em;   
 }
-
-
 
 
 .header {

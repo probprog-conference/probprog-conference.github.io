@@ -1,3 +1,4 @@
+
 name: "PROBPROG 2020"
 url: http://probprog-conference.github.io
 #baseurl: /
@@ -7,6 +8,10 @@ timezone: America/New_York
 navigation:
 - text: Program
   url: /program/
+- text: Schedule
+  url: /schedule/
+- text: Posters
+  url: /posters/
 - text: Submissions
   url: /submissions/
 - text: Conduct
