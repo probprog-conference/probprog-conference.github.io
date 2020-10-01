@@ -79,7 +79,7 @@ Sessions on Thursday run from 10.30am to 4pm East Coast time.
 
 # Friday October 23rd
 
-Sessions on Friday run from 12.30am to 6pm UK time.
+Sessions on Friday run from 12.30pm to 6pm UK time.
 
 ## Session 1
 
