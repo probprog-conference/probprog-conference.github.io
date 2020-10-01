@@ -3,125 +3,190 @@ title: PROBPROG 2020 Schedule
 layout: default
 ---
 
-# Program Overview
+# Thursday October 22nd
 
-- **Thursday October 4th**: Industry discussions, Tutorials, Open-source meetup.    
-- **Friday October 5th**: Statistics track, Practice track.
-- **Saturday October 6th**: Intelligence track, Languages and Systems track.
+Sessions on Thursday run from 10.30am to 4pm East Coast time.
 
-# Thursday October 4th
+## Session 1
 
-The ***Industry Day*** will take place in the [McGovern Institute for Brain and Cognitive Science](https://whereis.mit.edu/?go=46) at MIT. 
-
-{% assign data=site.data.schedule-oct4 %}
-
+{% assign data=site.data.schedule-2020-oct22-session1 %}
 <table class="schedule">
     <thead>
-        <th>Start</th>
-        <th>End</th>
-        <th>Activity</th>
-        <th>Location</th>
-        <!-- <th>Authors</th> -->
-    </thead>
-    <tbody>
-    {% for row in data %}
-        <tr>
-        {% for cell in row %}
-            <td>{{ cell[1] | markdownify }}</td>
-        {% endfor %}
-        </tr>
-    {% endfor %}
-    </tbody>
-</table>
-
-
-# Friday October 5th
-
-The ***Practice of Probabilistic Programming*** and ***Statistics and Data Analysis***
-session will take place in [MIT Wiesner Building E15](https://whereis.mit.edu/?go=E15). 
-
-{% assign data=site.data.schedule-oct5 %}
-
-<table class="schedule">
-    <thead>
-        <th>Start</th>
-        <th>End</th>
-        <th>Activity</th>
-        <th>Location</th>
+        <th class="time">GMT</th>
+        <th class="time">EDT</th>
+        <th class="time">PST</th>
+        <th class="activity">Activity</th>
+        <th class="presenter">Presenter</th>
         <!-- <th>Authors</th> -->
     </thead>
     <tbody>
     {% for row in data %}
     <tr>
         <td>
-        {{ row["Start Time"] | markdownify }}
+        {{ row["GMT"] | markdownify }}
         </td>
         <td>
-        {{ row["End Time"] | markdownify }}
+        {{ row["EDT"] | markdownify }}
+        </td>
+        <td>
+        {{ row["PST"] | markdownify }}
         </td>
         <td>
         {{ row["Activity"] | markdownify }}   
-        {%- capture links -%}
-            {%- if row["Release"] == "Yes" -%}
-               {%- if row["Video"].size > 0 -%}
-                    <a href='{{ row["Video"] }}'>video</a>{% if row["Slides"].size > 0 %} | {% endif %} 
-               {%- endif -%} 
-            {%- endif -%}
-            {%- if row["Slides"].size > 0 -%}
-                <a href='{{ "/assets/slides/" | append:row["Slides"] }}'>slides</a>
-            {%- endif -%} 
-        {%- endcapture -%}
-        {{ row["Talk Title"] }} {% if links.size > 0 %} [{{links}}] {% endif %}
         </td>
         <td>
-        {{ row["Location"] | markdownify }}   
+        {{ row["Live presenter"] | markdownify }}   
         </td>
     </tr>
     {% endfor %}
     </tbody>
 </table>
 
-# Saturday October 6th
+## Session 2
 
-The ***Probabilistic Programming and Intelligence*** and ***Languages and Systems*** sessions will take place in [MIT Wiesner Building E15](https://whereis.mit.edu/?go=E15).
-
-{% assign data=site.data.schedule-oct6 %}
-
+{% assign data=site.data.schedule-2020-oct22-session2 %}
 <table class="schedule">
     <thead>
-        <th>Start</th>
-        <th>End</th>
-        <th>Activity</th>
-        <th>Location</th>
+        <th class="time">GMT</th>
+        <th class="time">EDT</th>
+        <th class="time">PST</th>
+        <th class="activity">Activity</th>
+        <th class="presenter">Presenter</th>
         <!-- <th>Authors</th> -->
     </thead>
     <tbody>
     {% for row in data %}
     <tr>
         <td>
-        {{ row["Start Time"] | markdownify }}
+        {{ row["GMT"] | markdownify }}
         </td>
         <td>
-        {{ row["End Time"] | markdownify }}
+        {{ row["EDT"] | markdownify }}
+        </td>
+        <td>
+        {{ row["PST"] | markdownify }}
         </td>
         <td>
         {{ row["Activity"] | markdownify }}   
-        {%- capture links -%}
-            {%- if row["Release"] == "Yes" -%}
-               {%- if row["Video"].size > 0 -%}
-                    <a href='{{ row["Video"] }}'>video</a>{% if row["Slides"].size > 0 %} | {% endif %} 
-               {%- endif -%} 
-            {%- endif -%}
-            {%- if row["Slides"].size > 0 -%}
-                <a href='{{ "/assets/slides/" | append:row["Slides"] }}'>slides</a>
-            {%- endif -%} 
-        {%- endcapture -%}
-        {{ row["Talk Title"] }}{% if links.size > 0 %} [{{links}}]{% endif %}
         </td>
         <td>
-        {{ row["Location"] | markdownify }}   
+        {{ row["Live presenter"] | markdownify }}   
         </td>
     </tr>
     {% endfor %}
     </tbody>
 </table>
+
+# Friday October 23rd
+
+Sessions on Friday run from 12.30am to 6pm UK time.
+
+## Session 1
+
+{% assign data=site.data.schedule-2020-oct23-session1 %}
+<table class="schedule">
+    <thead>
+        <th class="time">GMT</th>
+        <th class="time">EDT</th>
+        <th class="time">PST</th>
+        <th class="activity">Activity</th>
+        <th class="presenter">Presenter</th>
+        <!-- <th>Authors</th> -->
+    </thead>
+    <tbody>
+    {% for row in data %}
+    <tr>
+        <td>
+        {{ row["GMT"] | markdownify }}
+        </td>
+        <td>
+        {{ row["EDT"] | markdownify }}
+        </td>
+        <td>
+        {{ row["PST"] | markdownify }}
+        </td>
+        <td>
+        {{ row["Activity"] | markdownify }}   
+        </td>
+        <td>
+        {{ row["Live presenter"] | markdownify }}   
+        </td>
+    </tr>
+    {% endfor %}
+    </tbody>
+</table>
+
+## Session 2
+
+{% assign data=site.data.schedule-2020-oct23-session2 %}
+<table class="schedule">
+    <thead>
+        <th class="time">GMT</th>
+        <th class="time">EDT</th>
+        <th class="time">PST</th>
+        <th class="activity">Activity</th>
+        <th class="presenter">Presenter</th>
+        <!-- <th>Authors</th> -->
+    </thead>
+    <tbody>
+    {% for row in data %}
+    <tr>
+        <td>
+        {{ row["GMT"] | markdownify }}
+        </td>
+        <td>
+        {{ row["EDT"] | markdownify }}
+        </td>
+        <td>
+        {{ row["PST"] | markdownify }}
+        </td>
+        <td>
+        {{ row["Activity"] | markdownify }}   
+        </td>
+        <td>
+        {{ row["Live presenter"] | markdownify }}   
+        </td>
+    </tr>
+    {% endfor %}
+    </tbody>
+</table>
+
+# Saturday October 24th
+
+Sessions on Saturday run from 8.30am to 11.45am West Coast time.
+
+## Session 1
+
+{% assign data=site.data.schedule-2020-oct24-session1 %}
+<table class="schedule">
+    <thead>
+        <th class="time">GMT</th>
+        <th class="time">EDT</th>
+        <th class="time">PST</th>
+        <th class="activity">Activity</th>
+        <th class="presenter">Presenter</th>
+        <!-- <th>Authors</th> -->
+    </thead>
+    <tbody>
+    {% for row in data %}
+    <tr>
+        <td>
+        {{ row["GMT"] | markdownify }}
+        </td>
+        <td>
+        {{ row["EDT"] | markdownify }}
+        </td>
+        <td>
+        {{ row["PST"] | markdownify }}
+        </td>
+        <td>
+        {{ row["Activity"] | markdownify }}   
+        </td>
+        <td>
+        {{ row["Live presenter"] | markdownify }}   
+        </td>
+    </tr>
+    {% endfor %}
+    </tbody>
+</table>
+

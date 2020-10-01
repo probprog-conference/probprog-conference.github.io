@@ -3,21 +3,19 @@ title: PROBPROG 2020 Posters
 layout: default
 ---
 
-# Friday April 24, 12:00-15:00
+# Thursday October 22nd  
 
 <table class="schedule">
     <thead>
-        <th>ID</th>
-        <th>Track</th>
+        <th class="id">ID</th>
         <th>Poster</th>
         <!-- <th>Authors</th> -->
     </thead>
     <tbody>
-    {% for poster in site.data.posters %}
-        {% if poster.Day == "Fri" %}
+    {% for poster in site.data.posters-2020 %}
+        {% if poster.Poster == "Thu" %}
         <tr>
             <td>{{ poster.ID }}</td>
-            <td>{{ poster.Track }}</td>
             <td>
             <b>{{ poster.Title }}</b>
             <br>
@@ -34,21 +32,19 @@ layout: default
     </tbody>
 </table>
 
-# Saturday April 25, 12:00-14:40
+# Fri October 23rd  
 
 <table class="schedule">
     <thead>
-        <th>ID</th>
-        <th>Track</th>
+        <th class="id">ID</th>
         <th>Poster</th>
         <!-- <th>Authors</th> -->
     </thead>
     <tbody>
-    {% for poster in site.data.posters %}
-        {% if poster.Day == "Sat" %}
+    {% for poster in site.data.posters-2020 %}
+        {% if poster.Poster == "Fri" %}
         <tr>
             <td>{{ poster.ID }}</td>
-            <td>{{ poster.Track }}</td>
             <td>
             <b>{{ poster.Title }}</b>
             <br>

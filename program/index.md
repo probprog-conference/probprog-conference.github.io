@@ -14,9 +14,9 @@ The second *International Conference on Probabilistic Programming (PROBPROG)* wi
 
 # Program 
 
-- **Thursday 22 October**: Industry day and Tutorials
-- **Friday 23 October**: Main conference
-- **Saturday 24 October**: Main conference
+- **Thursday 22 October**: East Coast Day
+- **Friday 23 October**: UK/EU Day 
+- **Saturday 24 October**: West Coast Day
 
 Probabilistic programming is an emergent field based on the idea that
 probabilistic models can be efficiently represented as executable
@@ -121,10 +121,3 @@ We welcome feedback from the community on policies and measures that
 help establish a venue that is welcoming to all participants. Please
 direct such suggestions and comments to
 [probprog-chairs@googlegroups.com](probprog-chairs@googlegroups.com).
-
-# Sponsorship
-
-For more information on the industry day and on sponsorship
-opportunities, please contact the organizers at
-[probprog-chairs@googlegroups.com](probprog-chairs@googlegroups.com)
-with "PROBPROG Industry" in the subject line.
