@@ -19,6 +19,7 @@ font-size: 0.75em
 img.thumb {
     display:block;
     margin:auto;
+    height:144px;
 }
 
 </style>
