@@ -6,7 +6,7 @@ layout: default
 {% assign days-title = "Thursday October 22nd;Fri October 23rd" | split: ";" %}
 {% assign days-filter = "Thu;Fri" | split: ";" %}
 {% assign items-per-col = 3 %}
-{% assign thumb-folder = "/assets/images/2020/poster-icons/" %}
+{% assign thumb-subfolder = "2020/poster-icons/" %}
 <style>
 .poster {
 border-style: dotted;
@@ -32,13 +32,19 @@ img.thumb {
     {% for poster in posters %}
       {% assign row-index = forloop.index0 | modulo: items-per-col %}
       {% if row-index == 0 %} <div class="row"> {% endif %}
-
       <div class="col-md poster">
-      <h5><center>{{ poster.Title }}</center></h5>
-      <center><i class="authors">{{ poster.Authors | split: "; "  | join: ", " }}</i></center>
-      <!-- <img class="thumb" src="{{thumb-folder}}/dummy-thumbnail.jpg" /> -->
-      </div>
 
+        <h5><center>{{ poster.Title }}</center></h5>
+        <center><i class="authors">{{ poster.Authors | split: "; "  | join: ", " }}</i></center>
+
+        {% capture thumb-checkpath %}{{ thumb-subfolder }}{{poster.ID}}.jpg{% endcapture %}
+        {% for static_file in site.static_files  %}
+          {% if static_file.path contains thumb-checkpath %}
+          <img class="thumb" src="{{static_file.path}}" />
+          {% endif %}
+        {% endfor %}
+
+      </div>
       {% assign close-row-ix = items-per-col | minus: 1 %}
       {% if row-index == close-row-ix %} </div> {% endif %}
     {% endfor %}
