@@ -32,6 +32,7 @@ thumb-col {
 a img.thumb {
   display:block;
   margin:auto;
+  padding:0.3em;
   max-width: 144px !important;
   height: auto;
   width: auto;
@@ -71,14 +72,14 @@ a img.thumb {
           <div class="container">
             <div class="row">
             {% if thumb != "" %}
-              <div class="col-6 col-sm-5 col-md-4 col-lg-4 col-xl-4 ">
+              <div class="col-12 col-sm-5 col-md-4 col-lg-5 col-xl-4 ">
                 {% if poster-pdf %}
                 <a href="{{poster-pdf}}"><img class="thumb" src="{{thumb}}"/></a>
                 {% else %}
                 <img class="thumb" src="{{thumb}}"/>
                 {% endif %}
               </div>
-              <div class="col-6 col-sm-7 col-md-8 col-lg-8 col-xl-8">
+              <div class="col-12 col-sm-7 col-md-6 col-lg-7 col-xl-8">
             {% else %}
               <div class="col-12">
             {% endif %}
