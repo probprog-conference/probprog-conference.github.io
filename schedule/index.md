@@ -12,7 +12,7 @@ Sessions on Thursday run from 10.30am to 4pm East Coast time.
 {% assign data=site.data.schedule-2020-oct22-session1 %}
 <table class="schedule">
     <thead>
-        <th class="time">GMT</th>
+        <th class="time">BST</th>
         <th class="time">EDT</th>
         <th class="time">PST</th>
         <th class="activity">Activity</th>
@@ -23,7 +23,7 @@ Sessions on Thursday run from 10.30am to 4pm East Coast time.
     {% for row in data %}
     <tr>
         <td>
-        {{ row["GMT"] | markdownify }}
+        {{ row["BST"] | markdownify }}
         </td>
         <td>
         {{ row["EDT"] | markdownify }}
@@ -47,7 +47,7 @@ Sessions on Thursday run from 10.30am to 4pm East Coast time.
 {% assign data=site.data.schedule-2020-oct22-session2 %}
 <table class="schedule">
     <thead>
-        <th class="time">GMT</th>
+        <th class="time">BST</th>
         <th class="time">EDT</th>
         <th class="time">PST</th>
         <th class="activity">Activity</th>
@@ -58,7 +58,7 @@ Sessions on Thursday run from 10.30am to 4pm East Coast time.
     {% for row in data %}
     <tr>
         <td>
-        {{ row["GMT"] | markdownify }}
+        {{ row["BST"] | markdownify }}
         </td>
         <td>
         {{ row["EDT"] | markdownify }}
@@ -86,7 +86,7 @@ Sessions on Friday run from 12.30pm to 6pm UK time.
 {% assign data=site.data.schedule-2020-oct23-session1 %}
 <table class="schedule">
     <thead>
-        <th class="time">GMT</th>
+        <th class="time">BST</th>
         <th class="time">EDT</th>
         <th class="time">PST</th>
         <th class="activity">Activity</th>
@@ -97,7 +97,7 @@ Sessions on Friday run from 12.30pm to 6pm UK time.
     {% for row in data %}
     <tr>
         <td>
-        {{ row["GMT"] | markdownify }}
+        {{ row["BST"] | markdownify }}
         </td>
         <td>
         {{ row["EDT"] | markdownify }}
@@ -121,7 +121,7 @@ Sessions on Friday run from 12.30pm to 6pm UK time.
 {% assign data=site.data.schedule-2020-oct23-session2 %}
 <table class="schedule">
     <thead>
-        <th class="time">GMT</th>
+        <th class="time">BST</th>
         <th class="time">EDT</th>
         <th class="time">PST</th>
         <th class="activity">Activity</th>
@@ -132,7 +132,7 @@ Sessions on Friday run from 12.30pm to 6pm UK time.
     {% for row in data %}
     <tr>
         <td>
-        {{ row["GMT"] | markdownify }}
+        {{ row["BST"] | markdownify }}
         </td>
         <td>
         {{ row["EDT"] | markdownify }}
@@ -160,7 +160,7 @@ Sessions on Saturday run from 8.30am to 11.45am West Coast time.
 {% assign data=site.data.schedule-2020-oct24-session1 %}
 <table class="schedule">
     <thead>
-        <th class="time">GMT</th>
+        <th class="time">BST</th>
         <th class="time">EDT</th>
         <th class="time">PST</th>
         <th class="activity">Activity</th>
@@ -171,7 +171,7 @@ Sessions on Saturday run from 8.30am to 11.45am West Coast time.
     {% for row in data %}
     <tr>
         <td>
-        {{ row["GMT"] | markdownify }}
+        {{ row["BST"] | markdownify }}
         </td>
         <td>
         {{ row["EDT"] | markdownify }}
