@@ -14,7 +14,7 @@ Sessions on Thursday run from 10.30am to 4pm East Coast time.
     <thead>
         <th class="time">BST</th>
         <th class="time">EDT</th>
-        <th class="time">PST</th>
+        <th class="time">PDT</th>
         <th class="activity">Activity</th>
         <th class="presenter">Presenter</th>
         <!-- <th>Authors</th> -->
@@ -29,7 +29,7 @@ Sessions on Thursday run from 10.30am to 4pm East Coast time.
         {{ row["EDT"] | markdownify }}
         </td>
         <td>
-        {{ row["PST"] | markdownify }}
+        {{ row["PDT"] | markdownify }}
         </td>
         <td>
         {{ row["Activity"] | markdownify }}   
@@ -49,7 +49,7 @@ Sessions on Thursday run from 10.30am to 4pm East Coast time.
     <thead>
         <th class="time">BST</th>
         <th class="time">EDT</th>
-        <th class="time">PST</th>
+        <th class="time">PDT</th>
         <th class="activity">Activity</th>
         <th class="presenter">Presenter</th>
         <!-- <th>Authors</th> -->
@@ -64,7 +64,7 @@ Sessions on Thursday run from 10.30am to 4pm East Coast time.
         {{ row["EDT"] | markdownify }}
         </td>
         <td>
-        {{ row["PST"] | markdownify }}
+        {{ row["PDT"] | markdownify }}
         </td>
         <td>
         {{ row["Activity"] | markdownify }}   
@@ -88,7 +88,7 @@ Sessions on Friday run from 12.30pm to 6pm UK time.
     <thead>
         <th class="time">BST</th>
         <th class="time">EDT</th>
-        <th class="time">PST</th>
+        <th class="time">PDT</th>
         <th class="activity">Activity</th>
         <th class="presenter">Presenter</th>
         <!-- <th>Authors</th> -->
@@ -103,7 +103,7 @@ Sessions on Friday run from 12.30pm to 6pm UK time.
         {{ row["EDT"] | markdownify }}
         </td>
         <td>
-        {{ row["PST"] | markdownify }}
+        {{ row["PDT"] | markdownify }}
         </td>
         <td>
         {{ row["Activity"] | markdownify }}   
@@ -123,7 +123,7 @@ Sessions on Friday run from 12.30pm to 6pm UK time.
     <thead>
         <th class="time">BST</th>
         <th class="time">EDT</th>
-        <th class="time">PST</th>
+        <th class="time">PDT</th>
         <th class="activity">Activity</th>
         <th class="presenter">Presenter</th>
         <!-- <th>Authors</th> -->
@@ -138,7 +138,7 @@ Sessions on Friday run from 12.30pm to 6pm UK time.
         {{ row["EDT"] | markdownify }}
         </td>
         <td>
-        {{ row["PST"] | markdownify }}
+        {{ row["PDT"] | markdownify }}
         </td>
         <td>
         {{ row["Activity"] | markdownify }}   
@@ -162,7 +162,7 @@ Sessions on Saturday run from 8.30am to 11.45am West Coast time.
     <thead>
         <th class="time">BST</th>
         <th class="time">EDT</th>
-        <th class="time">PST</th>
+        <th class="time">PDT</th>
         <th class="activity">Activity</th>
         <th class="presenter">Presenter</th>
         <!-- <th>Authors</th> -->
@@ -177,7 +177,7 @@ Sessions on Saturday run from 8.30am to 11.45am West Coast time.
         {{ row["EDT"] | markdownify }}
         </td>
         <td>
-        {{ row["PST"] | markdownify }}
+        {{ row["PDT"] | markdownify }}
         </td>
         <td>
         {{ row["Activity"] | markdownify }}   
