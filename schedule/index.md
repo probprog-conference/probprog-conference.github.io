@@ -5,7 +5,7 @@ layout: default
 
 # Thursday October 22nd
 
-Sessions on Thursday run from 10.30am to 4pm East Coast time.
+Sessions on Thursday run from 10.30am to 4pm East Coast time. *Chair:* Vikash Mansinghka.
 
 ## Session 1
 
@@ -16,8 +16,6 @@ Sessions on Thursday run from 10.30am to 4pm East Coast time.
         <th class="time">EDT</th>
         <th class="time">PDT</th>
         <th class="activity">Activity</th>
-        <th class="presenter">Presenter</th>
-        <!-- <th>Authors</th> -->
     </thead>
     <tbody>
     {% for row in data %}
@@ -32,10 +30,10 @@ Sessions on Thursday run from 10.30am to 4pm East Coast time.
         {{ row["PDT"] | markdownify }}
         </td>
         <td>
-        {{ row["Activity"] | markdownify }}   
-        </td>
-        <td>
-        {{ row["Live presenter"] | markdownify }}   
+        {{ row["Activity"] | markdownify }}
+        {%- if row["Title"].size > 0 -%}
+            {{ row["Title"] | markdownify }}
+        {% endif %}
         </td>
     </tr>
     {% endfor %}
@@ -51,8 +49,7 @@ Sessions on Thursday run from 10.30am to 4pm East Coast time.
         <th class="time">EDT</th>
         <th class="time">PDT</th>
         <th class="activity">Activity</th>
-        <th class="presenter">Presenter</th>
-        <!-- <th>Authors</th> -->
+        <th></th>
     </thead>
     <tbody>
     {% for row in data %}
@@ -67,10 +64,12 @@ Sessions on Thursday run from 10.30am to 4pm East Coast time.
         {{ row["PDT"] | markdownify }}
         </td>
         <td>
-        {{ row["Activity"] | markdownify }}   
+        {{ row["Activity"] | markdownify }}
+        {%- if row["Panelists"].size > 0 -%}
+            {{ row["Panelists"] | markdownify }}
+        {% endif %}
         </td>
         <td>
-        {{ row["Live presenter"] | markdownify }}   
         </td>
     </tr>
     {% endfor %}
@@ -79,7 +78,7 @@ Sessions on Thursday run from 10.30am to 4pm East Coast time.
 
 # Friday October 23rd
 
-Sessions on Friday run from 12.30pm to 6pm UK time.
+Sessions on Friday run from 12.30pm to 6pm UK time. *Chair:* Jean-Baptiste Tristan.
 
 ## Session 1
 
@@ -90,8 +89,6 @@ Sessions on Friday run from 12.30pm to 6pm UK time.
         <th class="time">EDT</th>
         <th class="time">PDT</th>
         <th class="activity">Activity</th>
-        <th class="presenter">Presenter</th>
-        <!-- <th>Authors</th> -->
     </thead>
     <tbody>
     {% for row in data %}
@@ -106,10 +103,10 @@ Sessions on Friday run from 12.30pm to 6pm UK time.
         {{ row["PDT"] | markdownify }}
         </td>
         <td>
-        {{ row["Activity"] | markdownify }}   
-        </td>
-        <td>
-        {{ row["Live presenter"] | markdownify }}   
+        {{ row["Activity"] | markdownify }}
+        {%- if row["Title"].size > 0 -%}
+            {{ row["Title"] | markdownify }}
+        {% endif %}
         </td>
     </tr>
     {% endfor %}
@@ -125,7 +122,6 @@ Sessions on Friday run from 12.30pm to 6pm UK time.
         <th class="time">EDT</th>
         <th class="time">PDT</th>
         <th class="activity">Activity</th>
-        <th class="presenter">Presenter</th>
         <!-- <th>Authors</th> -->
     </thead>
     <tbody>
@@ -141,10 +137,10 @@ Sessions on Friday run from 12.30pm to 6pm UK time.
         {{ row["PDT"] | markdownify }}
         </td>
         <td>
-        {{ row["Activity"] | markdownify }}   
-        </td>
-        <td>
-        {{ row["Live presenter"] | markdownify }}   
+        {{ row["Activity"] | markdownify }}
+        {%- if row["Panelists"].size > 0 -%}
+            {{ row["Panelists"] | markdownify }}
+        {% endif %}
         </td>
     </tr>
     {% endfor %}
@@ -153,7 +149,7 @@ Sessions on Friday run from 12.30pm to 6pm UK time.
 
 # Saturday October 24th
 
-Sessions on Saturday run from 8.30am to 11.45am West Coast time.
+Sessions on Saturday run from 8.30am to 11.45am West Coast time. *Chair:* Jan-Willem van de Meent.
 
 ## Session 1
 
@@ -164,8 +160,6 @@ Sessions on Saturday run from 8.30am to 11.45am West Coast time.
         <th class="time">EDT</th>
         <th class="time">PDT</th>
         <th class="activity">Activity</th>
-        <th class="presenter">Presenter</th>
-        <!-- <th>Authors</th> -->
     </thead>
     <tbody>
     {% for row in data %}
@@ -180,13 +174,12 @@ Sessions on Saturday run from 8.30am to 11.45am West Coast time.
         {{ row["PDT"] | markdownify }}
         </td>
         <td>
-        {{ row["Activity"] | markdownify }}   
-        </td>
-        <td>
-        {{ row["Live presenter"] | markdownify }}   
+        {{ row["Activity"] | markdownify }}
+        {%- if row["Title"].size > 0 -%}
+            {{ row["Title"] | markdownify }}
+        {% endif %}
         </td>
     </tr>
     {% endfor %}
     </tbody>
 </table>
-

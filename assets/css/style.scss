@@ -57,9 +57,9 @@ th.time {
     width: 5em;
 }
 
-th.activity {
-    width: 14em;
-}
+// th.activity {
+//     width: 18em;
+// }
 
 th.id {
     width: 3em;
@@ -68,6 +68,15 @@ th.id {
 table.schedule td, .markdown-body table.schedule th {
     vertical-align: top;
     text-align: left;
+}
+
+table.schedule td {
+  padding-top: 0.25em; 
+  padding-bottom: 0.25em; 
+}
+
+table.schedule tr:last-child {
+  height: 1.5em;
 }
 
 table.schedule tr:nth-child(2n) {
