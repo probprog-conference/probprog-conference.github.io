@@ -65,6 +65,14 @@ th.id {
     width: 3em;
 }
 
+table.schedule a {
+    color: #000;
+    &:hover {
+        color: $orange;
+        text-decoration: none;
+    }
+}
+
 table.schedule td, .markdown-body table.schedule th {
     vertical-align: top;
     text-align: left;
