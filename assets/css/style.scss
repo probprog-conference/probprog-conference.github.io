@@ -61,9 +61,17 @@ th.time {
 //     width: 18em;
 // }
 
-th.id {
-    width: 3em;
-}
+// th.id {
+//     width: 2.5em;
+// }
+
+// th.floor {
+//     width: 3.0em;
+// }
+
+// th.type {
+//     width: 6em;
+// }
 
 table.schedule a {
     color: #000;
@@ -73,14 +81,16 @@ table.schedule a {
     }
 }
 
-table.schedule td, .markdown-body table.schedule th {
+table.schedule td, table.schedule th {
     vertical-align: top;
     text-align: left;
+    padding-left: 0.5em;
+    padding-right: 1.0em;
 }
 
 table.schedule td {
-  padding-top: 0.25em; 
-  padding-bottom: 0.25em; 
+  padding-top: 0.5em; 
+  padding-bottom: 0.5em;
 }
 
 table.schedule tr:last-child {

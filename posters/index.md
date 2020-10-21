@@ -9,7 +9,9 @@ layout: default
 <table class="schedule">
     <thead>
         <th class="id">ID</th>
+        <th class="floor">Floor</th>
         <th>Poster</th>
+        <th class="type">Type</th>
         <!-- <th>Authors</th> -->
     </thead>
     <tbody>
@@ -24,6 +26,7 @@ layout: default
             {% endfor %}
             <tr>
                 <td>{{ poster.ID }}</td>
+                <td>{{ poster.Floor }}</td>
                 <td>
                 {% if poster_exists == "true" %}
                     <b><a href="{{ poster_url | relative_url }}">{{ poster.Title }} [pdf]</a></b>
@@ -38,6 +41,7 @@ layout: default
                     <!-- {{ author_affil[0] }}, -->
                 <!-- {% endfor %} -->
                 </td>
+                <td><em>{{ poster.Type }}</em></td>
             </tr>
         {% endif %}
     {% endfor %}
@@ -49,7 +53,9 @@ layout: default
 <table class="schedule">
     <thead>
         <th class="id">ID</th>
+        <th class="floor">Floor</th>
         <th>Poster</th>
+        <th class="type">Type</th>
         <!-- <th>Authors</th> -->
     </thead>
     <tbody>
@@ -64,6 +70,7 @@ layout: default
             {% endfor %}
             <tr>
                 <td>{{ poster.ID }}</td>
+                <td>{{ poster.Floor }}</td>
                 <td>
                 {% if poster_exists == "true" %}
                     <b><a href="{{ poster_url | relative_url }}">{{ poster.Title }} [pdf]</a></b>
@@ -78,6 +85,7 @@ layout: default
                     <!-- {{ author_affil[0] }}, -->
                 <!-- {% endfor %} -->
                 </td>
+                <td><em>{{ poster.Type }}</em></td>
             </tr>
         {% endif %}
     {% endfor %}
