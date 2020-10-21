@@ -105,10 +105,17 @@ practitioners.
 
 # Organizing Committee
 
+## General Co-Chairs
 - [Vikash Mansinghka](http://probcomp.csail.mit.edu/principal-investigator/) (MIT)
 - [Jean-Baptiste Tristan](http://jtristan.github.io) (Boston College)
 - [Jan-Willem van de Meent](http://www.ccs.neu.edu/home/jwvdm/) (Northeastern University)
 - [Avi Pfeffer](https://www.linkedin.com/in/avi-pfeffer-03188025/) (Charles River Analytics)
+
+## Industry Co-Chair
+- [Veronica Weiner]() (MIT)
+
+## Online Event Coordination
+- [Sally Hawkes](https://www.kinetixevents.co.uk/) (Kinetix Events)
 
 # Diversity
 
