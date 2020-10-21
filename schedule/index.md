@@ -5,7 +5,7 @@ layout: default
 
 # Thursday October 22nd
 
-Sessions on Thursday run from 10.30am to 4pm East Coast time. *Chair:* Vikash Mansinghka.
+Sessions on Thursday run from 10.30am to 4pm East Coast time. *Chair:* Jean-Baptiste Tristan.
 
 ## Session 1
 
@@ -78,7 +78,7 @@ Sessions on Thursday run from 10.30am to 4pm East Coast time. *Chair:* Vikash Ma
 
 # Friday October 23rd
 
-Sessions on Friday run from 12.30pm to 6pm UK time. *Chair:* Jean-Baptiste Tristan.
+Sessions on Friday run from 12.30pm to 6pm UK time. *Chair:* Vikash Mansinghka.
 
 ## Session 1
 
