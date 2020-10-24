@@ -105,7 +105,7 @@ Sessions on Friday run from 12.30pm to 7pm UK time. *Chair:* Vikash Mansinghka.
         <td>
         {% if row["Video"].size > 0 %}
             {% assign video_url = row["Video"] | prepend: "/assets/videos/" | relative_url %}
-            <b><a href="video_url">{{row["Activity"] | append: " [video]" | markdownify }}</a></b>
+            <b><a href="{{ video_url }}">{{row["Activity"] | append: " [video]" | markdownify }}</a></b>
         {% else %}
             {{ row["Activity"] | markdownify }}
         {% endif %}
