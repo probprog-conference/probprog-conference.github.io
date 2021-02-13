@@ -1,11 +1,11 @@
 ---
-title: PROBPROG 2020 Code of Conduct
+title: PROBPROG 2021 Code of Conduct
 layout: default
 ---
 
 # Code of Conduct
 
-PROBPROG 2020 is dedicated to providing a harassment-free conference
+PROBPROG 2021 is dedicated to providing a harassment-free conference
 experience for everyone, regardless of gender, gender identity and
 expression, sexual orientation, disability, physical appearance, body
 size, race, age or religion. We do not tolerate harassment of

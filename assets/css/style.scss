@@ -5,6 +5,10 @@ $white: #FFF;
 $purple: #2F1731;
 $orange: #ff5733;
 $green: #39f5e6;
+$dark-grey: #1d2731;
+$dark-blue: #0b2c4d;
+$light-blue: #426c91;
+$gold: #f9b310;
 $text-color: #000;
 $border-color: #eaecef;
 $pad-horizontal: 25px;
@@ -12,6 +16,13 @@ $pad-vertical: 15px;
 $table-alternate-row: #f6f8fa;
 $header-size: 200%;
 
+a {
+  color: $light-blue;
+}
+
+a:hover {
+  color: $dark-blue;
+}
 h1 {
     // border-bottom: 1px solid $border-color;
     margin: 8px 0;
@@ -110,9 +121,8 @@ ul, ol  {
   padding-left: $pad-horizontal;
   padding-top: $pad-vertical;
   padding-bottom: $pad-vertical;
-  // margin-bottom: $pad-vertical;
   color: $white;
-  background: $purple;
+  background: $dark-blue;
 }
 
 .header .col-md-6 {
@@ -155,7 +165,7 @@ div.title {
 
 .nav > li > a:hover,
 .nav > li > a:focus {
-  color: $orange;
+  color: $gold;
 }
 
 .nav > li.active > a,
@@ -163,7 +173,7 @@ div.title {
 .nav > li.active > a:focus 
 {
   color: $white;
-  border-bottom: 2px solid $orange;
+  border-bottom: 2px solid $gold;
 }
 
 .nav > li.external > a {
@@ -192,7 +202,7 @@ div.content > .col {
 }
 
 .footer {
-  border-top: 1px solid $purple;
+  border-top: 1px solid $dark-blue;
   padding-left: $pad-horizontal;
   padding-top: $pad-vertical;
   // margin-top: $pad-vertical;
@@ -208,14 +218,14 @@ div.content > .col {
   padding-right: $pad-horizontal;
 }
 
-.text-orange {
-  color: $orange;
+.text-gold {
+  color: $gold;
 }
 
 .landing {
     font-size: 133%;
     color: $white;
-    background: $purple;
+    background: $light-blue;
     padding-top: 30px;
     padding-left: 15px;
     padding-right: 15px;
