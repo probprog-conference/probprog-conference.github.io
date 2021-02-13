@@ -34,6 +34,17 @@
        width="87.501122"
        height="87.690254"
        id="rect1830" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath857">
+      <rect
+         style="opacity:0.441975;fill:#f9b310;fill-opacity:1;stroke:none;stroke-width:7.05554;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect859"
+         width="95.25"
+         height="95.25"
+         x="49.892857"
+         y="28.726103" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -43,15 +54,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="202.9761"
+     inkscape:cx="195.83324"
      inkscape:cy="333.87126"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1250"
+     inkscape:window-width="2504"
      inkscape:window-height="1387"
-     inkscape:window-x="53"
+     inkscape:window-x="52"
      inkscape:window-y="27"
      inkscape:window-maximized="0"
      fit-margin-top="0"
@@ -68,7 +79,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -77,26 +88,14 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-49.892857,-28.72619)">
-    <g
-       id="g1826"
-       transform="matrix(1,0,0,0.99784306,0,0.06196053)"
-       style="stroke-width:1.00108"
-       inkscape:export-filename="/Users/janwillem/text1852.png"
-       inkscape:export-xdpi="288"
-       inkscape:export-ydpi="288">
-      <rect
-         style="fill:#0b2c4d;fill-opacity:1;stroke-width:0.17658"
-         id="rect1779-0"
-         width="95.25"
-         height="95.455719"
-         x="49.892857"
-         y="28.726191" />
-      <path
-         id="rect1779-0-9"
-         style="fill:#ffffff;fill-opacity:0.75;stroke-width:0.667387"
-         d="m 188.57227,108.57227 v 360.77734 h 360 V 108.57227 Z m 14.64257,14.67382 H 533.92773 V 454.67383 H 203.21484 Z"
-         transform="scale(0.26458333)" />
-    </g>
+    <rect
+       style="fill:#0b2c4d;fill-opacity:1;stroke:#ffffff;stroke-width:7.05556;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.75"
+       id="rect1779-0"
+       width="95.25"
+       height="95.249825"
+       x="49.892857"
+       y="28.726191"
+       clip-path="url(#clipPath857)" />
     <text
        xml:space="preserve"
        id="text1828"
@@ -135,25 +134,25 @@
     <text
        xml:space="preserve"
        style="font-size:26.1056px;line-height:1.08;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:7.40833px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-       x="65.397598"
-       y="57.108604"
+       x="65.397491"
+       y="57.005569"
        id="text1852"
        inkscape:export-filename="/Users/janwillem/text1852.png"
        inkscape:export-xdpi="288"
        inkscape:export-ydpi="288"><tspan
          sodipodi:role="line"
          id="tspan1850"
-         x="65.397598"
-         y="57.108604"
+         x="65.397491"
+         y="57.005569"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.1056px;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#ffffff;fill-opacity:1;stroke-width:0.264583">PROB</tspan><tspan
          sodipodi:role="line"
-         x="65.397598"
-         y="85.591095"
+         x="65.397491"
+         y="85.48806"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.1056px;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#f9b310;fill-opacity:1;stroke-width:0.264583"
          id="tspan1856">PROG</tspan><tspan
          sodipodi:role="line"
-         x="65.397598"
-         y="114.07359"
+         x="65.397491"
+         y="113.97055"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.1056px;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
          id="tspan913">2021</tspan></text>
   </g>
