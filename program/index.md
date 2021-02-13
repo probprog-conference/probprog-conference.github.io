@@ -9,7 +9,7 @@ layout: default
 - **Conference Location**: Online
 - **Submission Deadline**: Thu May 6 2021 AOE
 
-The second *International Conference on Probabilistic Programming (PROBPROG)* will be held online on Thursday October 22, Friday October 23, and Saturday October 24.
+The third *International Conference on Probabilistic Programming (PROBPROG)* will be held online on Wednesday October 20, Thursday October 21, and Friday October 22.
 
 # Program 
 
