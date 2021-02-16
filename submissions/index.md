@@ -7,6 +7,7 @@ layout: default
 
 - **Deadline**: Thu May 6 2021 AOE
 - **Submit at**: [https://cmt3.research.microsoft.com/PROBPROG2021](https://cmt3.research.microsoft.com/PROBPROG2020/)
+- **Formatting Instructions**: [PDF](/2021/probprog-2021-instructions.pdf)
 - **Style Files**: [ZIP](/2021/probprog-2021-style.zip)
 
 The PROBPROG 2021 conference is seeking two kinds of submissions:
