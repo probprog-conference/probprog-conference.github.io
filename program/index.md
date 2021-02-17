@@ -103,7 +103,7 @@ practitioners.
 ## Program Chairs
 
 - [Lawrence Murray](https://www.indii.org/) (Uber)
-- [Guy van den Broeck](https://web.cs.ucla.edu/~guyvdb/) (UCLA)
+- [Guy Van den Broeck](https://web.cs.ucla.edu/~guyvdb/) (UCLA)
 
 ## General Chairs
 - [Jean-Baptiste Tristan](http://jtristan.github.io) (Boston College)
