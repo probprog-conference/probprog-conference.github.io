@@ -5,7 +5,7 @@ layout: default
 
 # Call for Submissions
 
-- **Deadline**: Thu May 6 2021 AOE
+- **Deadline (Extended)**: Tue May 11 2021 AOE
 - **Submit at**: [https://cmt3.research.microsoft.com/PROBPROG2021](https://cmt3.research.microsoft.com/PROBPROG2021/)
 - **Formatting Instructions**: [PDF](/2021/probprog-2021-instructions.pdf)
 - **Style Files**: [ZIP](/2021/probprog-2021-style.zip)
