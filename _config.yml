@@ -12,8 +12,6 @@ navigation:
   url: /schedule/
 - text: Posters
   url: /posters/
-- text: Submissions
-  url: /submissions/
 - text: Conduct
   url: /conduct/
 - text: 2020

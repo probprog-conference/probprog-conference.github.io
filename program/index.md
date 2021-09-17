@@ -5,11 +5,16 @@ layout: default
 
 # Overview
 
-- **Conference Dates**:  Wed Oct 20 2021 - Fri Oct 22 2021
-- **Conference Location**: Online
-- **Submission Deadline**: Thu May 6 2021 AOE
+- **Conference Dates**:  Wed Oct 20 2021 - Fri Oct 22 2021 (online)
+- **Submission Deadline**: <strike>Thu May 6 2021 AOE</strike>
+- **Submissions**: [https://cmt3.research.microsoft.com/PROBPROG2021](https://cmt3.research.microsoft.com/PROBPROG2021/) ([formatting instructions](/2021/probprog-2021-instructions.pdf); [style files](/2021/probprog-2021-style.zip))
 
-The third *International Conference on Probabilistic Programming (PROBPROG)* will be held online on Wednesday October 20, Thursday October 21, and Friday October 22.
+The third *International Conference on Probabilistic Programming (PROBPROG)* will be held online on Wednesday October 20, Thursday October 21, and Friday October 22. - 
+The PROBPROG 2021 conference is seeking two kinds of submissions:
+
+1. **Extended Abstracts**: Authors may submit work in the form of an extended abstract of 2-6 pages for consideration for a poster presentation, talk, or full-length proceedings submission. Extended abstracts are intended as a mechanism for discussing work that may be preliminary, and for this reason are non-archival. Titles for accepted poster presentations and talks will be listed on the conference website. 
+
+2. **Syndicated Submissions**: Authors may submit work that has been accepted for publication in another venue within the last 12 months for consideration as a poster presentation or talk. These submissions may be full-length and are also non-archival, but will be listed on the conference website.
 
 # Program 
 
