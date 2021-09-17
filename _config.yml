@@ -8,8 +8,8 @@ timezone: America/New_York
 navigation:
 - text: Program
   url: /program/
-#- text: Schedule
-#  url: /schedule/
+- text: Schedule
+  url: /schedule/
 #- text: Posters
 #  url: /posters/
 - text: Submissions
