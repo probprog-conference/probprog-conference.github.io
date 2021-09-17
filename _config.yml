@@ -10,8 +10,8 @@ navigation:
   url: /program/
 - text: Schedule
   url: /schedule/
-#- text: Posters
-#  url: /posters/
+- text: Posters
+  url: /posters/
 - text: Submissions
   url: /submissions/
 - text: Conduct
