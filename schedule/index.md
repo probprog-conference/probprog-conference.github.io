@@ -3,7 +3,7 @@ title: PROBPROG 2020 Schedule
 layout: default
 ---
 
-# Wednesday October 20th
+# Wednesday 20 October
 
 ## Session 1
 
@@ -74,7 +74,7 @@ layout: default
     </tbody>
 </table>
 
-# Thursday October 21st
+# Thursday 21 October
 
 ## Session 1
 
@@ -114,7 +114,7 @@ layout: default
     </tbody>
 </table>
 
-# Friday October 22nd
+# Friday 22 October
 
 ## Session 1
 
