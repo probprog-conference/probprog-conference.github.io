@@ -76,7 +76,7 @@ layout: default
 
 # Thursday 21 October
 
-## Session 1
+## Session 3
 
 {% assign data=site.data.schedule-2021-oct21-session1 %}
 <table class="schedule">
@@ -116,7 +116,7 @@ layout: default
 
 # Friday 22 October
 
-## Session 1
+## Session 4
 
 {% assign data=site.data.schedule-2021-oct22-session1 %}
 <table class="schedule">
