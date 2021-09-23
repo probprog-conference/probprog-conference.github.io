@@ -114,40 +114,6 @@ layout: default
     </tbody>
 </table>
 
-## Session 2
-
-{% assign data=site.data.schedule-2021-oct21-session2 %}
-<table class="schedule">
-    <thead>
-        <th class="time">BST</th>
-        <th class="time">EDT</th>
-        <th class="time">PDT</th>
-        <th class="activity">Activity</th>
-        <!-- <th>Authors</th> -->
-    </thead>
-    <tbody>
-    {% for row in data %}
-    <tr>
-        <td>
-        {{ row["BST"] | markdownify }}
-        </td>
-        <td>
-        {{ row["EDT"] | markdownify }}
-        </td>
-        <td>
-        {{ row["PDT"] | markdownify }}
-        </td>
-        <td>
-        {{ row["Activity"] | markdownify }}
-        {%- if row["Panelists"].size > 0 -%}
-            {{ row["Panelists"] | markdownify }}
-        {% endif %}
-        </td>
-    </tr>
-    {% endfor %}
-    </tbody>
-</table>
-
 # Friday October 22nd
 
 ## Session 1
