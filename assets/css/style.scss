@@ -86,10 +86,10 @@ th.time {
 
 table.schedule a {
     color: #000;
-    &:hover {
-        color: $orange;
-        text-decoration: none;
-    }
+    // &:hover {
+    //     color: $gold;
+    //     text-decoration: none;
+    // }
 }
 
 table.schedule td, table.schedule th {

@@ -16,7 +16,7 @@ layout: default
     <tbody>
     {% for poster in site.data.posters-2021 %}
         {% if poster.Poster == "Wed" %}
-            {% assign poster_url = poster.ID | prepend: "/assets/posters/thu/" | append: ".pdf" %}
+            {% assign poster_url = poster.ID | prepend: "/assets/posters/wed/" | append: ".pdf" %}
             {% assign poster_exists = "false" %}
             {% for file in site.static_files %}
                 {% if file.path == poster_url %}
