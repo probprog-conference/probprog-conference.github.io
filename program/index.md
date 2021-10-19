@@ -16,6 +16,45 @@ The PROBPROG 2021 conference is seeking two kinds of submissions:
 
 2. **Syndicated Submissions**: Authors may submit work that has been accepted for publication in another venue within the last 12 months for consideration as a poster presentation or talk. These submissions may be full-length and are also non-archival, but will be listed on the conference website.
 
+# Keynote Speakers
+
+<div class="container">
+  <div class="row mb-5">
+    <div class="col-3">
+      <img alt="Katie Bouman" class="headshot" src="/assets/images/probprog-2021-bouman-1x1.jpg">
+    </div>
+    <div class="col-9">
+        <h2>Katie Bouman (Caltech)</h2>
+        <h3>Beyond the First Portrait of a Black Hole</h3> 
+        <p>Katherine L. (Katie) Bouman is a Rosenberg Scholar and an assistant professor in the Computing and Mathematical Sciences, Electrical Engineering, and Astronomy Departments at the California Institute of Technology. Before joining Caltech, she was a postdoctoral fellow in the Harvard-Smithsonian Center for Astrophysics. She received her Ph.D. in the Computer Science and Artificial Intelligence Laboratory (CSAIL) at MIT in EECS, and her bachelor's degree in Electrical Engineering from the University of Michigan.</p>
+    </div>
+  </div>
+  
+  <div class="row mb-5">
+    <div class="col-3">
+      <img alt="John Winn" class="headshot" src="/assets/images/probprog-2021-winn-1x1.png">
+    </div>
+    <div class="col-9">
+        <h2>John Winn (Microsoft Research)</h2>
+        <h3>Getting All The Facts: Automated Knowledge Base Construction with a Probabilistic Program</h3> 
+        {{ "John Winn is a Senior Principal Researcher in machine learning at [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/). His main research interests are ML for knowledge extraction, machine vision, probabilistic programming and ML for healthcare. At Microsoft, he co-created the [Infer.NET](https://dotnet.github.io/infer/) probabilistic programming system. He is also author of the [Model-Based Machine Learning](https://www.mbmlbook.com/) book. Before joining Microsoft, he was a PhD student in the [Inference Group](https://www.inference.org.uk/is/) at the [Cavendish Laboratory](https://www.phy.cam.ac.uk/), supervised by Chris Bishop and David MacKay. He has previously been a member of the [Signal Processing Group](https://www-sigproc.eng.cam.ac.uk/) at the [Cambridge University Engineering Department](http://www.eng.cam.ac.uk/) and the Learning and Vision Group at the [MIT Computer Science & Artificial Intelligence Lab](https://www.csail.mit.edu/)." | markdownify }}
+    </div>
+  </div>
+
+  <div class="row mb-5">
+    <div class="col-3">
+      <img alt="Bob Carpenter" class="headshot" src="/assets/images/probprog-2021-carpenter-1x1.png">
+    </div>
+    <div class="col-9">
+        <h2>Bob Carpenter (Flatiron Institute)</h2>
+        <h3>What do we need from a probabilistic programming language to support Bayesian workflow?</h3> 
+        {{ "Bob Carpenter is a research scientist at Flatiron Institute's Center for Computational Mathematics.  He works on probabilistic programming languages, statistical inference algorithms, and applied statistics, primarily within the Stan community ([https://mc-stan.org](https://mc-stan.org)). Before moving into statistics, Bob worked on theoretical linguistics, logic programming, natural language processing, and speech recognition, both in industry and academia." | markdownify }} 
+    </div>
+  </div>
+</div>
+
+
+
 # Program 
 
 Probabilistic programming is an emergent field based on the idea that

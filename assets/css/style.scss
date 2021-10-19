@@ -16,6 +16,11 @@ $pad-vertical: 15px;
 $table-alternate-row: #f6f8fa;
 $header-size: 200%;
 
+img.headshot {
+    width: 250px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
 a {
   color: $light-blue;
 }
@@ -32,6 +37,13 @@ h1 {
 
 h2 {
     font-size: 150%;
+}
+
+h3 {
+    font-size: 115%;
+    font-style: italic;
+    margin: 4px 0;
+    padding: 4px 0;
 }
 
 h1, h2, h3 {
