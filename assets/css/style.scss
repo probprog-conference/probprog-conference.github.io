@@ -7,6 +7,7 @@ $orange: #ff5733;
 $green: #22eedd;
 $dark-grey: #1d2731;
 $dark-blue: #0b2c4d;
+$black: #000000;
 $light-blue: #426c91;
 $gold: #f9b310;
 $text-color: #000;
@@ -15,6 +16,21 @@ $pad-horizontal: 25px;
 $pad-vertical: 15px;
 $table-alternate-row: #f6f8fa;
 $header-size: 200%;
+
+.profiles {
+    display: flex;
+/*    justify-content: center;*/
+}
+
+.profiles figure {
+    text-align: center;
+    padding-right: 50px;
+}
+
+.profiles img {
+    border-radius: 50%;
+}
+
 
 img.headshot {
     width: 250px;
@@ -134,7 +150,7 @@ ul, ol  {
   padding-top: $pad-vertical;
   padding-bottom: $pad-vertical;
   color: $white;
-  background: $dark-blue;
+  background: $black;
 }
 
 .header .col-md-6 {
@@ -236,8 +252,8 @@ div.content > .col {
 
 .landing {
     font-size: 133%;
-    color: $white;
-    background: $light-blue;
+    color: $black;
+    background: $white;
     padding-top: 30px;
     padding-left: 15px;
     padding-right: 15px;

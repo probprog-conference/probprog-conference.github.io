@@ -1,8 +1,14 @@
 
-name: "PROBPROG 2021"
+title: "PROBPROG | International Conference on Probabilistic Programming"
 url: http://probprog-conference.github.io
 timezone: America/New_York
 
 navigation:
+- text: Call for Submissions
+  url: /call/
+- text: Agenda
+  url: /agenda/
+- text: Conduct
+  url: /conduct/
 - text: Archive
   url: /archive/

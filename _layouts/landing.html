@@ -8,31 +8,39 @@
     <link href="{{ '/assets/css/bootstrap.min.css' | relative_url }}" rel="stylesheet">
     <link href="{{ '/assets/css/style.css' | relative_url }}" rel="stylesheet">
 
-    <title>PROBPROG 2021</title>
+    <title>{{site.title}}</title>
   </head>
 
   <body>
     <div class="container">
 
       <div class="header row">
-        {% include header.html %}       
+        {% include header.html %}
       </div>
 
-<!--       <div class="landing row">
-        <div class="col">
-          <span class="d-block mb-4">
-            <img src="/assets/images/probprog-logo-2021.png" alt="PROBPROG 2020" width="50%">
-          </span>
-          <span class="d-block mb-2">Wed Oct 20 2021 - Fri Oct 22 2021</span>
-          <span class="d-block mb-2"><em>The conference will take place in a fully online format</em></span>
-          <a href="https://www.eventbrite.com/e/probprog-2021-tickets-166674416667?aff=ebdssbeac" class="btn-custom mb-3"><span>REGISTER NOW</span></a>    
-        </div>
+     <div class="landing row">
+      <table style="width:100%">
+        <tr>
+          <td style="width:50%; vertical-align: center; padding-right: 20px;">
+          <img src="/assets/images/probprog-logo-2023-fall.svg" alt="PROBPROG 2023" width="100%"></td>
+          <td style="width:45%; vertical-align: center">
+            <strong>Seminars will take place online on the following days</strong>
+              <ul>
+              <li>Thu Sep 28, 2023. 11:00 am - 12:30 pm US ET</li>
+              <li>Thu Oct 26, 2023. 11:00 am - 12:30 pm US ET</li>
+              <li>Thu Nov 30, 2023. 11:00 am - 12:30 pm US ET</li>
+              <li>Thu Dec 21, 2023. 11:00 am - 12:30 pm US ET</li>
+            </ul>
+          </td>
+        </tr>
+      </table>
+    </div>
+
+      <div class="footer row">
+        {% include footer.html %}
       </div>
- -->
-<!--       <div class="footer row">
-        {% include footer.html %}       
-      </div>
-    </div> -->
+
+    </div>
 
     <script src="{{ '/assets/js/bootstrap.min.js' | relative_url }}"></script>
 
