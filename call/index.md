@@ -1,5 +1,5 @@
 ---
-title: Call for Submissions
+title: Announcement
 layout: default
 ---
 
@@ -28,7 +28,7 @@ software projects through a breakout room format with open discussion.
 
 ## Dates
 
-The Fall 2023 schedule is as follows (broadcast via Zoom):
+The Fall 2023 schedule is as follows (via GatherTown):
 
 - Thu Sep 28, 2023. 11:00 am - 12:30 pm US ET
 - Thu Oct 26, 2023. 11:00 am - 12:30 pm US ET
@@ -39,8 +39,7 @@ The Fall 2023 schedule is as follows (broadcast via Zoom):
 
 We are soliciting submissions for talks in three tracks.
 
-### Probabilistic Programming Research Talks
-
+1. **Probabilistic Programming Research Talks**.
 Talks in this track present novel research that has already been accepted
 at a peer-reviewed venue (e.g., PLDI, NeurIPS, POPL, AISTATS, OOPSLA, ICML
 etc.) within the last 18 months.  Authors should submit the abstract and
@@ -48,8 +47,7 @@ full paper of the accepted paper as PDF, specifying the original venue and
 date of the paper's acceptance. Slides from previous iterations of the talk
 may be optionally submitted as well.
 
-### Probabilistic Programming in Practice Talks
-
+2. **Probabilistic Programming in Practice Talks**.
 Talks in this track are focused on demos for systems, languages, and
 applications of probabilistic programming in practice.  Authors should
 submit a summary describing the main capabilities and/or applications of
@@ -58,8 +56,7 @@ are associated with high-quality open-source demos (e.g. Github repository,
 online tutorials, IPython notebooks, etc.) that can be presented in the
 seminar. Examples of supporting materials are given on the submission form.
 
-### Discussion Topic Proposal
-
+3. **Discussion Topic Proposal**.
 This track invites proposals for a discussion topic in a community breakout
 room.  Proposed topics may be associated with preliminary work (e.g.,
 workshop papers, arXiv preprint) to help ground the discussion.

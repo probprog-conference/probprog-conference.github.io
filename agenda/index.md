@@ -11,4 +11,3 @@ Confirmed speakers will be posted to this page as they become available.
 ## Thu Oct 25, 2023
 ## Thu Nov 30, 2023
 ## Thu Dec 21, 2023
-
