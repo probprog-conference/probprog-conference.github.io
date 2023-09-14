@@ -28,7 +28,7 @@ software projects through a breakout room format with open discussion.
 
 ## Dates
 
-The Fall 2023 schedule is as follows (held via GatherTown, link TBA):
+The Fall 2023 schedule is as follows (held online via GatherTown, link TBA):
 
 - Thu Sep 28, 2023. 11:00 am - 12:30 pm US ET
 - Thu Oct 26, 2023. 11:00 am - 12:30 pm US ET
