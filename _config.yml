@@ -4,7 +4,7 @@ url: http://probprog-conference.github.io
 timezone: America/New_York
 
 navigation:
-- text: Announcement
+- text: Call
   url: /call/
 - text: Agenda
   url: /agenda/

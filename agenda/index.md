@@ -5,7 +5,8 @@ layout: default
 
 # Seminar Agenda
 
-Confirmed speakers will be posted to this page as they become available.
+Confirmed speakers and agendas will be posted to this page as they become
+available.
 
 ## Thu Sep 9, 2023
 ## Thu Oct 25, 2023
