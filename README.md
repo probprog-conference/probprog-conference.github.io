@@ -1,23 +1,12 @@
-# PROBPROG 2020
+# PROBPROG Website
 
-This is the website for the Conference on Probabilistic Programming
+This is the website for the International Conference on Probabilistic Programming.
 
 ## Steps to Build
 
-1. Install bundler
-```
-sudo gem install bundler
-```
+To build the website locally:
+- [Install Jekyll](https://jekyllrb.com/docs/installation/).
+- Run `bundle install` in root of this repository.
+- Run `bundle exec jekyll serve` to host website on `localhost:4000`.
 
-2. Install pre-requisite packages
-```
-bundle install --path vendor/bundle
-```
-
-3. Serve website locally to test
-```
-bundle exec jekyll serve
-```
-
-4. Deploy by pushing to master branch
-
+To deploy to https://probprog.cc, use `git push origin master`.
