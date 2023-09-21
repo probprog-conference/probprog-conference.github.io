@@ -9,6 +9,8 @@ All times as US Eastern Time.
 
 ## Thu Sep 28, 2023
 
+**Event Page**: <https://app.gather.town/events/QNDU4JLYRGWqbGap2FSj>
+
 - ### 11am - 12pm: Talk + Q/A
 
 <div class="container">
@@ -20,10 +22,10 @@ All times as US Eastern Time.
         <h2><a href="https://www.cs.ox.ac.uk/people/samuel.staton/main.html">Sam Staton</a> (Professor, University of Oxford)</h2>
         <h3>Non-parametric probabilistic programming</h3>
         <p>
-        Abstract: Non-parametric statistics is incredibly expressive (Gaussian
+        Non-parametric statistics is incredibly expressive (Gaussian
         processes, Dirichlet processes, and beyond). Several authors have proposed
         probabilistic programming as a convenient language for describing
-        non-parametric models -- more convenient than traditional mathematical
+        non-parametric models—more convenient than traditional mathematical
         notation. In this talk I will discuss this, and some recent progress, both
         theoretical and practical.
         </p>
