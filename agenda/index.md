@@ -39,6 +39,8 @@ All times as US Eastern Time.
 
 - ### 12pm - 12:30pm: Breakout discussion in GatherTown.
 
+<hr>
+
 ## Thu Sep 28, 2023
 
 **Event Page**: <https://app.gather.town/events/QNDU4JLYRGWqbGap2FSj>
@@ -66,7 +68,3 @@ All times as US Eastern Time.
 </div>
 
 - ### 12pm - 12:30pm: Breakout discussion in GatherTown.
-
-
-## Thu Nov 30, 2023
-## Thu Dec 21, 2023
