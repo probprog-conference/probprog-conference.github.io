@@ -9,6 +9,8 @@ All times as US Eastern Time.
 
 ## Thu Oct 26, 2023
 
+**Event Page**: <https://app.gather.town/events/QNDU4JLYRGWqbGap2FSj>
+
 - ### 11am - 12pm: Talk + Q/A
 
 <div class="container">
