@@ -7,6 +7,13 @@ layout: default
 
 All times as US Eastern Time.
 
+## Thu Nov 30, 2023
+
+Session canceled. The next session will be held as planned
+on Thu Dec 21. Details coming soon.
+
+<hr>
+
 ## Thu Oct 26, 2023
 
 **Event Page**: <https://app.gather.town/events/QNDU4JLYRGWqbGap2FSj>
