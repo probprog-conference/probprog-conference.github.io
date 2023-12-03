@@ -7,10 +7,50 @@ layout: default
 
 All times as US Eastern Time.
 
-## Thu Nov 30, 2023
+## Thu Dec 21, 2023
 
-Session canceled. The next session will be held as planned
-on Thu Dec 21. Details coming soon.
+**Event Page**: <https://app.gather.town/events/QNDU4JLYRGWqbGap2FSj>
+
+- ### 11am - 12pm: Talk + Q/A
+
+<div class="container">
+  <div class="row">
+    <div class="col-2" style="padding-left: 0pt">
+      <img alt="Sam Witty" class="headshot" src="https://samwitty.github.io/img/profile-pic.jpg" />
+    </div>
+    <div class="col-9">
+        <h2><a href="https://www.robots.ox.ac.uk/~twgr/">Sam Witty</a> (Research Scientist, Basis AI)</h2>
+        <h3>ChiRho: A Causal Probabilistic Programming Language</h3>
+        <p>
+        Despite remarkable progress over the last two decades in reducing
+        causal inference to statistical practice, the "causal revolution"
+        proclaimed by Judea Pearl and other pioneers remains incomplete,
+        with a sprawling and fragmented technical literature that is still
+        inaccessible to non-experts and isolated from the cutting-edge
+        computational methods and software tools being developed within
+        mainstream machine learning research.
+        Probabilistic programming languages are promising substrates for
+        bridging this gap thanks to the close correspondence between their
+        operational semantics and most standard mathematical formalisms for
+        causal inference, especially that of structural causal models.
+        This talk will introduce ChiRho
+        (https://github.com/BasisResearch/chirho), a new causal
+        probabilistic programming language embedded in Python. ChiRho
+        extends an existing probabilistic programming language (Pyro) that
+        is built on algebraic effects and handlers with new algebraic
+        operations for performing interventions and counterfactuals on
+        causal models represented as probabilistic programs, and new effect
+        handlers for automatically reducing causal inference computations
+        over these models to ordinary probabilistic computations on
+        transformed probabilistic programs. I will also illustrate ChiRho's
+        design with representative example applications from econometrics,
+        single-cell biology, and epidemiology.
+        </p>
+    </div>
+  </div>
+</div>
+
+- ### 12pm - 12:30pm: Breakout discussion in GatherTown.
 
 <hr>
 

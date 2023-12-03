@@ -10,8 +10,6 @@ navigation:
   url: /call/
 - text: Agenda
   url: /agenda/
-- text: Attend
-  url: /attend/
 - text: Conduct
   url: /conduct/
 - text: Archive
