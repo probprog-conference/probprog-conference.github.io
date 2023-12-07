@@ -19,7 +19,7 @@ All times as US Eastern Time.
       <img alt="Sam Witty" class="headshot" src="https://samwitty.github.io/img/profile-pic.jpg" />
     </div>
     <div class="col-9">
-        <h2><a href="https://www.robots.ox.ac.uk/~twgr/">Sam Witty</a> (Research Scientist, Basis AI)</h2>
+        <h2><a href="https://samwitty.github.io/">Sam Witty</a> (Research Scientist, Basis AI)</h2>
         <h3>ChiRho: A Causal Probabilistic Programming Language</h3>
         <p>
         Despite remarkable progress over the last two decades in reducing
