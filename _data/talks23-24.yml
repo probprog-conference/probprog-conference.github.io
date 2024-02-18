@@ -1,0 +1,159 @@
+- date: 2024-04-16 10:00:00-4
+  time: 10:00am US ET
+  url_event: https://app.gather.town/events/QNDU4JLYRGWqbGap2FSj
+  name: Du Phan/Heiko Zimmermann
+  role: Research Scientist/Graduate Student
+  institution: Google/Northeastern University
+  url_personal:
+  image:
+  title: 'Coix: A framework for compositional inference with probabilistic programs in JAX'
+  abstract: We introduce Coix (https://github.com/jax-ml/coix), a set of program
+    transformations for compositional inference with probabilistic programs
+    written in common probabilistic programming languages. We provide an
+    abstract API that closely follows "Learning proposals for probabilistic
+    programs with inference combinators" (Stites et al., 2021). We
+    implement backends for NumPyro and Oryx, but the API is easily
+    extendable to other PPL backends that can be implemented by the user.
+    Finally, we illustrate how to use the API to design modern inference
+    algorithms, e.g., instances of "Nested variational inference"
+    (Zimmermann et al., 2021), that help approximate complex target
+    densities.
+
+- date: 2024-04-10 10:00:00-4
+  time: 10:00am US ET
+  url_event: https://app.gather.town/events/QNDU4JLYRGWqbGap2FSj
+  name: Di Wang
+  role: Assistant Professor
+  institution: Peking University
+  url_personal: https://stonebuddha.github.io/
+  image: https://stonebuddha.github.io/authors/admin/avatar_hu9d530a7d46346135a5b497cb498a0a1a_1639432_270x270_fill_q75_lanczos_center.jpg
+  title: Algebraic Program Analysis of Probabilistic Programs
+  abstract: Program analysis is a longstanding area about (usually
+    automated) techniques for analyzing and proving program properties
+    without actually executing the programs. Program analysis of
+    probabilistic programs has also received a lot of attention. In this
+    talk, we address the question of how to develop a framework that can
+    support multiple analyses. We aimt to develop an algebraic approach to
+    compositional analysis of probabilistic programs, thereby allowing
+    program analyses to be designed and implemented by defining appropriate
+    semantic algebras. Each semantic algebra consists of (i) a space of
+    program properties, and (ii) composition operators that correspond to
+    basic program constructs. By using different semantic algebras, one
+    implementation of the algebraic framework can implement multiple
+    analyses.
+
+- date: 2024-04-03 10:00:00-4
+  time: 10:00am US ET
+  url_event: https://app.gather.town/events/QNDU4JLYRGWqbGap2FSj
+  name: Tan Zhi-Xuan
+  role: Graduate Student
+  institution: Massachusetts Institute of Technology
+  url_personal: https://ztangent.github.io/
+  image: https://ztangent.github.io/assets/img/profile.jpg
+  title: Real-Time Open-Ended Goal Inference via Programmable Bayesian Inverse Planning
+  abstract: "People routinely infer the goals and intentions of others from both
+      actions and words. How might we build assistive machines that do the same?
+      This talk will first introduce Bayesian inverse planning as a general
+      framework for goal inference. I will then show how these problems can be
+      solved accurately and efficiently via Sequential Inverse Plan/Policy Search
+      (SIPS), a family of algorithms that model agents as online model-based
+      planners, and use programmable sequential Monte Carlo to rapidly infer
+      agents' goals and plans from observations of their behavior. Through the
+      use of both incremental algorithms and compiler optimizations for
+      model-based planning, SIPS can be made to run in (faster than) real-time.
+      <br/>
+      Because SIPS is implemented using probabilistic programming, it is highly
+      configurable. For example, SIPS can be used to model boundedly-rational
+      agents, allowing us to infer an agent's goals even when they make planning
+      mistakes. SIPS can also handle language input: By using large language
+      models (LLMs) as likelihood functions over how people communicate their
+      plans in natural language, SIPS can infer human plans from incomplete or
+      ambiguous instructions. Finally, SIPS can be integrated with conditional
+      priors over human goals that are learned from data, allowing us to scale
+      online goal inference to open-ended settings with hundreds of possible
+      goals. These advances pave the way towards fast, flexible, and grounded
+      inferences over the infinite variety of human goals, furthering the
+      development of human-aligned assistive systems."
+
+- date: 2024-03-27 10:00:00-4
+  time: 10:00am US ET
+  url_event: https://app.gather.town/events/QNDU4JLYRGWqbGap2FSj
+  name: Wonyeol Lee
+  role: Postdoctoral Associate
+  institution: Carnegie Mellon University
+  url_personal: https://wonyeol.github.io/
+  image: https://wonyeol.github.io/photos/201901-640.jpg
+  title: Smoothness Analysis for Probabilistic Programs
+  abstract: "In this talk, we will present a static analysis for discovering
+    differentiable (or more generally smooth) parts of a given
+    probabilistic program, and show how the analysis can be used to improve
+    the pathwise gradient estimator, one of the most popular methods for
+    posterior inference and model learning. Our improvement increases the
+    scope of the estimator from differentiable models to non-differentiable
+    ones without requiring manual intervention of the user: the improved
+    estimator automatically identifies differentiable parts of a given
+    probabilistic program using our static analysis, and applies the
+    pathwise gradient estimator to the identified parts while using a more
+    general but less efficient estimator, called score estimator, for the
+    rest of the program. Our experiments with representative probabilistic
+    programs in the Pyro language show that our static analysis is capable
+    of identifying smooth parts of those programs accurately, and making
+    our improved pathwise gradient estimator exploit all the opportunities
+    for high performance in those programs."
+
+- date: 2024-03-20 10:00:00-4
+  time: 10:00am US ET
+  url_event: https://app.gather.town/events/QNDU4JLYRGWqbGap2FSj
+  name: Alex Lew
+  role: Graduate Student
+  institution: Massachusetts Institute of Technology
+  url_personal: http://alexlew.net
+  image: http://alexlew.net/face.jpg
+  title: Scaling Probabilistic AI with Automatic Differentiation of Probabilistic Programs
+  abstract: By automating the error-prone math behind deep learning, systems such
+    as TensorFlow and PyTorch have supercharged machine learning research,
+    empowering hundreds of thousands of practitioners to rapidly explore
+    the design space of neural network architectures and training
+    algorithms. In this talk, I will show how new programming language
+    techniques, especially generalizations of automatic differentiation,
+    make it possible to generalize and extend such systems to support
+    probabilistic models. Our automation is rigorously proven sound using
+    new semantic techniques for reasoning compositionally about expressive
+    probabilistic programs, and static types are employed to ensure
+    important preconditions for soundness, eliminating large classes of
+    implementation bugs. Providing a further boost, our tools can help
+    users correctly implement fast, low-variance, unbiased estimators of
+    gradients and probability densities that are too expensive to compute
+    exactly, enabling orders-of-magnitude speedups in downstream
+    optimization and inference algorithms.
+    <br/>
+    To illustrate the value of these techniques, I’ll show how they have
+    helped us experiment with new architectures that could address key
+    challenges with today’s dominant AI models. In particular, I’ll
+    showcase systems we’ve built for (1) auditable reasoning and learning
+    in relational domains, enabling the detection of thousands of errors
+    across millions of Medicare records, and (2) probabilistic inference
+    over large language models, enabling small open models to outperform
+    GPT-4 on several constrained generation benchmarks.
+
+- date: 2023-10-26 11:00:00-4
+  time: 11:00am US ET
+  url_event: https://app.gather.town/events/QNDU4JLYRGWqbGap2FSj
+  name: Tom Rainforth
+  role: Senior Research Fellow
+  institution: University of Oxford
+  url_personal: https://www.robots.ox.ac.uk/~twgr/
+  image: https://www.robots.ox.ac.uk/~twgr/assets/images/mugshot.jpeg
+  title: Effective Inference for Probabilistic Programs with Stochastic Support
+  abstract: Universal probabilistic programming systems allow users to construct complex models whose support varies between different executions. Unfortunately, this poses a substantial challenge for their underlying inference engines, with most common inference schemes not applicable to this difficult setting. In this talk, we will discuss two inference schemes for effectively dealing with such problems by decomposing the original program into a mixture over sub-programs with static support. We will then show that such programs implicitly define a Bayesian model average over paths, and reveal why this can lead to pathologies when performing full Bayesian inference. To address this, we will introduce some alternative schemes for weighting the different program paths that provide more robust prediction under model misspecification.
+
+- date: 2023-09-28 11:00:00-4
+  time: 11:00am US ET
+  url_event: https://app.gather.town/events/QNDU4JLYRGWqbGap2FSj
+  name: Sam Staton
+  role: Professor
+  institution: University of Oxford
+  url_personal: https://www.cs.ox.ac.uk/people/samuel.staton/main.html
+  image: https://www.cs.ox.ac.uk/people/samuel.staton/samlow.jpg
+  title: Non-parametric probabilistic programming
+  abstract: Non-parametric statistics is incredibly expressive (Gaussian processes, Dirichlet processes, and beyond). Several authors have proposed probabilistic programming as a convenient language for describing non-parametric models—more convenient than traditional mathematical notation. In this talk I will discuss this, and some recent progress, both theoretical and practical.

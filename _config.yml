@@ -6,8 +6,6 @@ timezone: America/New_York
 navigation:
 - text: Home
   url: /
-- text: Call
-  url: /call/
 - text: Agenda
   url: /agenda/
 - text: Conduct
