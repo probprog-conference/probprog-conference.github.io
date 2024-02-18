@@ -14,7 +14,7 @@ layout: default
     <tr><td>
     <img style="float:left; padding-right:10px" width="100px" src="{{ entry.image }}"/>
     <a href="{{entry.url_personal}}">{{entry.name}}</a>, {{entry.role}} ({{entry.institution}})<br/>
-    <b>Join</b>: <a href="{{entry.url_event}}">{{entry.url_event}}</a> <br/>
+    <b>Attend</b>: <a href="{{entry.url_event}}">{{entry.url_event}}</a> <br/>
     <b>Time</b>: {{entry.time}}
     </td></tr>
     <tr><td style="padding-bottom: 20px;">
@@ -34,7 +34,7 @@ layout: default
     <tr><td>
     <img style="float:left; padding-right:10px" width="100px" src="{{ entry.image }}"/>
     <a href="{{entry.url_personal}}">{{entry.name}}</a>, {{entry.role}}, {{entry.institution}}<br/>
-    <b>Join</b>: <a href="{{entry.url_event}}">{{entry.url_event}}</a> <br/>
+    <b>Attend</b>: <a href="{{entry.url_event}}">{{entry.url_event}}</a> <br/>
     <b>Time</b>: {{entry.time}}
     </td></tr>
     <tr><td style="padding-bottom: 20px;">
