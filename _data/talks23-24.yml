@@ -108,7 +108,7 @@
   role: Graduate Student
   institution: Massachusetts Institute of Technology
   url_personal: http://alexlew.net
-  image: http://alexlew.net/face.jpg
+  image: https://s3.amazonaws.com/strangeloop/uploadedimgs/prod/ortqvxs8OJhMDVw9CqSw9w_large.jpg
   title: Scaling Probabilistic AI with Automatic Differentiation of Probabilistic Programs
   abstract: By automating the error-prone math behind deep learning, systems such
     as TensorFlow and PyTorch have supercharged machine learning research,
