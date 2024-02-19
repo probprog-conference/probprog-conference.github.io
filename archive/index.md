@@ -5,7 +5,7 @@ layout: default
 
 # Archive
 
-The websites for iterations of PROBPROG can be found below
+The websites for previous iterations of PROBPROG can be found below
 
 - [2021; Virtual Conference](/2021/)
 - [2020; Virtual Conference](/2020/)
