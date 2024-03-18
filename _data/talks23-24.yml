@@ -1,3 +1,32 @@
+- date: 2024-04-24 10:00:00-4
+  time: 10:00am US ET
+  url_event: Link TBD
+  name: Fabian Zasier
+  role: PhD Student
+  institution: University of Oxford
+  url_personal: https://www.fabianzaiser.com/
+  image: https://www.fabianzaiser.com/processed_images/34dc19e28b442bf000.jpg
+  title: Generating Functions for Bayesian Inference on Probabilistic Programs
+  abstract: Probability generating functions (PGFs) have recently been applied
+    to the analysis of randomized programs. In this talk, I will show that
+    they are also useful for Bayesian inference on probabilistc programs.
+    The first part of the talk is about exact Bayesian inference for
+    discrete models, even with infinite support and continuous priors
+    (NeurIPS 2023, oral presentation). The new inference method leverages
+    PGFs as a finite representation of such infinite distributions, and
+    relies on automatic differentiation to extract information (probability
+    masses and moments) from it. This is automated in a tool called Genfer,
+    which is competitive with approximate Monte Carlo methods on a range of
+    benchmarks, while avoiding approximation errors. In the second part, I
+    will discuss ongoing work to extend this to probabilistic programs with
+    unbounded loops. Exact inference is very hard to perform exactly, so we
+    focus on finding guaranteed bounds on the posterior distribution
+    instead. The core idea is to synthesize inductive loop invariants by
+    solving systems of polynomial inequalities. If a solution can be found,
+    it yields bounds on the probability masses, moments, and tail behavior
+    of the program distribution. Our prototype implementation shows
+    promising results on several examples from the literature.
+
 - date: 2024-04-16 10:00:00-4
   time: 10:00am US ET
   url_event: Link TBD
