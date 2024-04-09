@@ -62,7 +62,7 @@
     without actually executing the programs. Program analysis of
     probabilistic programs has also received a lot of attention. In this
     talk, we address the question of how to develop a framework that can
-    support multiple analyses. We aimt to develop an algebraic approach to
+    support multiple analyses. We aim to develop an algebraic approach to
     compositional analysis of probabilistic programs, thereby allowing
     program analyses to be designed and implemented by defining appropriate
     semantic algebras. Each semantic algebra consists of (i) a space of
