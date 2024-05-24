@@ -1,3 +1,27 @@
+- date: 2024-06-12 10:00:00-4
+  time: 10:00am US ET
+  url_event: https://app.gather.town/events/QNDU4JLYRGWqbGap2FSj
+  name: David Broman
+  role: Professor
+  institution: KTH Royal Institute of Technology
+  url_personal: https://www.fabianzaiser.com/
+  image: https://popl23.sigplan.org/getProfileImage/davidbroman/528d2611-dd03-4cc4-a79f-446a76b53478/small.jpg?1711481808000
+  title: Modular and Efficient Compilers for Domain-Specific Probabilistic Programs
+  abstract: 'Probabilistic programming is a general approach to
+    probabilistic modeling where, ideally, the model is separated from the
+    inference algorithm in a modular way. Although the principles of
+    probabilistic programming languages are very general, a general-purpose
+    PPL can be challenging for domain experts to use if the languages are
+    drastically different from what the users are used to. In this talk, I
+    will discuss our ongoing work of developing a modular framework for
+    efficient compilation of domain-specific languages (DSLs) targeting PPLs.
+    I will explain the overall key ideas of modular composition of language
+    fragments and some underlying compilation techniques designed for
+    efficient inference, including the recent method of automatic alignment.
+    Moreover, I will briefly discuss two PPL DSL areas: (i) probabilistic
+    programming for real-time systems and (ii) statistical phylogenetics.'
+
+
 - date: 2024-04-24 10:00:00-4
   time: 10:00am US ET
   url_event: https://app.gather.town/events/QNDU4JLYRGWqbGap2FSj
